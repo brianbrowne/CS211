@@ -1,0 +1,45 @@
+<LinearLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    tools:context=".AddToDatabase" >
+    
+    <EditText android:id="@+id/LocationsName"
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:ems="20"
+        android:inputType="textMultiLine" 
+        android:hint="@string/LocationsName"/>
+
+    <EditText
+        android:id="@+id/LocationDescription"
+        android:layout_width="wrap_content"
+        android:layout_height="150dp"
+        android:ems="20"
+        android:hint="@string/LocationDescription"
+        android:inputType="textMultiLine" >
+    </EditText>
+    
+    <FrameLayout 
+        android:layout_width="285dip"
+        android:layout_height="200dip"
+        android:id="@+id/frame" />
+    
+    <Button android:onClick="captureHandler"
+        android:layout_width="285dip" 
+        android:layout_height="50dip"
+        android:text="@string/button_Take_Picture"
+        android:id="@+id/capture"/>
+    
+    <Button android:id="@+id/button_Send_Email"
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content" 
+        android:text="@string/button_Send_Email"
+        />
+</LinearLayout>

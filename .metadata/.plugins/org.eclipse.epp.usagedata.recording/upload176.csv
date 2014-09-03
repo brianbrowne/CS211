@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229519125
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229532581
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229532588
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229532605
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229532611
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229532633
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229532993
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229533041
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229533629
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229533737
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229533883
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229533958
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229538051
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229576282
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229576288
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229576305
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229576313
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229576332
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229576674
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229576727
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229577300
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229577425
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229577531
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229577607
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229581289
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229599677
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229599683
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229599699
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229599706
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229599727
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229600114
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229600210
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229600752
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229600854
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229600976
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229601039
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229604319
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229660902
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229660910
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229660927
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229660933
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229660951
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229661426
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229661479
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229662064
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229662192
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229662290
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229662343
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229664565
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229683062
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229683069
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229683090
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229683101
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229683124
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229683835
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229683876
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229684444
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229684569
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229684700
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229684775
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229688239
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229708876
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229708888
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229708910
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229708917
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229708938
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229709594
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229709635
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229710221
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229710344
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229710496
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229710576
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229714337
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229734535
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229734542
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229734559
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229734566
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229734584
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229735018
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229735085
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229735613
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229735720
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229735829
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229735892
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229740768
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229749106
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229749132
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229750864
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229767281
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229767287
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229767304
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229767311
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229767329
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229767748
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229767802
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229768350
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229768491
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229768655
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229768732
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229774019
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229774411
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229775569
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229776307
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229776307
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229776779
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229778360
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229778360
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229779306
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229780302
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229781463
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229782258
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229783057
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229784094
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229784733
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229785319
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229786382
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229787369
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229787370
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229788503
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229789279
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229790507
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229791465
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229792462
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229793814
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229795482
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229796181
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229796915
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229798145
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229799192
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229800345
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229801341
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229802318
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229803762
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229803764
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229808823
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229830256
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229830265
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229830282
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229830289
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229830309
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229830710
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229830773
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229831360
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229831475
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229831606
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229831686
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229833919
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229857907
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229857914
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229857930
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229857936
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229857957
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229858236
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229858281
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229858816
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229858934
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229859059
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229859116
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229862492
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229881446
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229881454
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229881471
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229881477
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229881495
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229881902
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229881974
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229882456
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229882551
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229882670
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229882722
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229887111
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229907531
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229907537
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229907554
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229907560
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229907579
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229907969
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229908000
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229908562
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229908663
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229908801
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229908849
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229913716
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229926486
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229926497
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229926517
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229926525
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229926545
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229926980
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229927064
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229927824
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229927950
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229928081
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229928141
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229931584
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229951957
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229951963
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229951986
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229951993
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229952011
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229952402
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229952479
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229953060
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229953163
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229953300
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229953350
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229956274
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229973531
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229973538
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229973557
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229973564
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229973581
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229974156
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229974201
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229974756
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229974885
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229975002
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229975049
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229978322
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394229993834
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394229993843
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229993864
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394229993872
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394229993896
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229994346
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394229994415
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229995035
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394229995157
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229995308
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394229995369
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394229996613
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230011981
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394230011988
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230012004
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394230012010
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230012027
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230012387
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394230012438
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230012953
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230013057
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230013184
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230013229
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230017278
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230033664
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394230033671
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230033691
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394230033698
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230033717
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230034091
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394230034173

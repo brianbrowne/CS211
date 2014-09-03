@@ -1,0 +1,232 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#5089D6"
+    tools:context=".DMW" >
+
+    <RelativeLayout
+            android:id="@+id/RelLayDMW"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+    
+    
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="Contact Your TD!" />
+    <TextView
+        android:id="@+id/filler"
+        android:layout_width="wrap_content"
+        android:layout_height="20dip"
+        android:layout_below="@+id/textview1" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewDerKea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filler"
+        android:textSize="20sp"
+        android:text="Derek Keating" />
+    
+    <EditText
+        android:id="@+id/SubjectDerKea"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewDerKea"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45sp"
+        android:layout_toRightOf="@+id/SubjectDerKea"
+        android:src="@drawable/derekkeating" />
+    
+    <EditText
+        android:id="@+id/messageDerKea"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectDerKea"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer202"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageDerKea" />
+    
+    <Button
+        android:id="@+id/sendEmailDerKea"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer202"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer203"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailDerKea" />
+    
+    <Button
+        android:id="@+id/DerKeawebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer203"
+        android:onClick="onClickSendEmailDerKea"
+        android:text="Open Derek Keating's website" />
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewFraFit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380dip"
+        android:textSize="20sp"
+        android:text="Frances Fitzgerald" />
+    
+    <EditText
+        android:id="@+id/SubjectFraFit"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewFraFit"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewFraFit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="390dip"
+        android:layout_toRightOf="@+id/SubjectFraFit"
+        android:src="@drawable/francesfitzgerald" />
+    
+    <EditText
+        android:id="@+id/messageFraFit"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectFraFit"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer204"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageFraFit" />
+    
+    <Button
+        android:id="@+id/sendEmailFraFit"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer204"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer205"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailFraFit" />
+    
+    <Button
+        android:id="@+id/FraFitwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer205"
+        android:text="Open Frances Fitzgerald's website" />
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewRobDow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="680dip"
+        android:textSize="20sp"
+        android:text="Robert Dowds" />
+    
+    <EditText
+        android:id="@+id/SubjectRobDow"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewRobDow"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewRobDow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="690dip"
+        android:layout_toRightOf="@+id/SubjectRobDow"
+        android:src="@drawable/robertdowds" />
+    
+    <EditText
+        android:id="@+id/messageRobDow"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectRobDow"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer206"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageRobDow" />
+    
+    <Button
+        android:id="@+id/sendEmailRobDow"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer206"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer207"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailRobDow" />
+    
+    <Button
+        android:id="@+id/RobDowwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer207"
+        android:text="Open Robert Dowds's website" />
+
+</RelativeLayout>
+</ScrollView>

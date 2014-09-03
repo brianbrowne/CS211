@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+java.specification.version,sysinfo,,,"1.7",1401805574912
+java.vendor,sysinfo,,,"Oracle Corporation",1401805574912
+java.version,sysinfo,,,"1.7.0",1401805574912
+java.vm.info,sysinfo,,,"mixed mode",1401805574912
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1401805574912
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1401805574912
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1401805574912
+java.vm.specification.version,sysinfo,,,"1.7",1401805574912
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1401805574912
+java.vm.version,sysinfo,,,"21.0-b17",1401805574912
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20100507-1815,"org.eclipse.equinox.p2.ui.sdk.scheduler",1401805575203
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.101.R36x_v20100823,"org.eclipse.equinox.p2.updatechecker",1401805575414
+started,bundle,org.eclipse.jdt.launching,3.5.200.v20110105_r362,"org.eclipse.jdt.launching",1401805576075
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1401805576171
+started,bundle,org.eclipse.team.cvs.ui,3.3.302.R36x_v20110203-1036,"org.eclipse.team.cvs.ui",1401805576623
+started,bundle,org.eclipse.mylyn.monitor.ui,3.4.1.v20110131-0100-e3x,"org.eclipse.mylyn.monitor.ui",1401805576653
+started,bundle,org.eclipse.mylyn.commons.net,3.4.1.v20100625-2100-e3x,"org.eclipse.mylyn.commons.net",1401805576875
+started,bundle,org.eclipse.core.variables,3.2.400.v20100505,"org.eclipse.core.variables",1401805577257
+started,bundle,org.eclipse.mylyn.commons.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.ui",1401805578321
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1401805578523
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1401805578570
+started,bundle,org.eclipse.mylyn.context.core,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.core",1401805578882
+started,bundle,org.eclipse.mylyn.context.ui,3.4.2.v20110131-0100-e3x,"org.eclipse.mylyn.context.ui",1401805578901
+started,bundle,org.eclipse.mylyn.tasks.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.tasks.ui",1401805579694
+started,bundle,org.eclipse.mylyn.team.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.team.ui",1401805579696
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1401805579812
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1401805580196
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1401805580296
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401805585185
+error,log,,,"Failed to load properties file for project 'testDB'",1401805591251
+started,bundle,org.eclipse.jdt.apt.core,3.3.402.R36_v20110120-1000,"org.eclipse.jdt.apt.core",1401805593132
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.301.R36_v20100727-0110,"org.eclipse.jdt.apt.pluggable.core",1401805593270
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401805595908
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401805595910
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401805618840
+started,bundle,org.eclipse.jdt.debug.ui,3.5.2.v20100928a_r362,"org.eclipse.jdt.debug.ui",1401805620215
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401805620963
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401805621208
+started,bundle,org.eclipse.jdt.junit,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.junit",1401805622088
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401805625839
+started,bundle,org.eclipse.jdt.junit.core,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.junit.core",1401805692717
+started,bundle,com.android.ide.eclipse.ddms,22.3.0.v201310242005-887826,"com.android.ide.eclipse.ddms",1401805696089
+started,bundle,com.android.ide.eclipse.traceview,22.3.0.v201310242005-887826,"com.android.ide.eclipse.traceview",1401805697493
+error,log,,,"Failed to load properties file for project 'testDB'",1401805698609
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401805699076
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401805712194
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401805712615
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401805844297
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\testDB\\AndroidManifest.xml: The markup in the document preceding the root element must be well-formed.",1401805844389
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1401805844621
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401805896519
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401805914927
+started,bundle,org.eclipse.compare,3.5.101.R36x_v20100929-0800,"org.eclipse.compare",1401805915683
+started,bundle,org.eclipse.wst.dtd.core,1.1.401.v201101122255,"org.eclipse.wst.dtd.core",1401805929494
+started,bundle,org.eclipse.emf.ecore,2.6.1.v20100914-1218,"org.eclipse.emf.ecore",1401805929609
+started,bundle,org.eclipse.emf.ecore.xmi,2.5.0.v20100521-1846,"org.eclipse.emf.ecore.xmi",1401805929896
+opened,view,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.adt.internal.lint.LintViewPart",1401805936213
+activated,view,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.adt.internal.lint.LintViewPart",1401805936267
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401805936305
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401805936374
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401805968030
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401805968181
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401805970724
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401806004750
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401806016358
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806023274
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806023540
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401806054723
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401806075266
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401806078601
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.rename",1401806078616
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806080486
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401806084232
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.showInformation",1401806084289
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1401806087334
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1401806088333
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401806165464
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401806169133
+error,log,,,"Failed to load properties file for project 'testDB'",1401806296266
+activated,view,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.adt.internal.lint.LintViewPart",1401806296363
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401806302440
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320658
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320669
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320678
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320687
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320696
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320705
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320714
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320724
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320733
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320746
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320811
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320823
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320832
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320844
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320855
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320864
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320873
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320882
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320890
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320902
+error,log,,,"Failed to load properties file for project 'testDB'",1401806320912
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401806375719
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401806380090
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401806380306
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401806381134
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401806381493
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401806381601
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401806384373
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806388581
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401806389942
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806389943
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401806391040
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401806392061
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401806392061
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401806393996
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806396931
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806397189
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401806399161
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806399755
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806399960
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401806401430
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806401886
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806402048
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401806405051
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806405537
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806405679
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401806406737
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806407170
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806407337
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806420927
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806431470
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806442396
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401806580217
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401806649175
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806651336
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806652814
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806652815
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806654714
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806654714
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806656319
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806656320
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401806657411
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1401806657411
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401806662606
+error,log,,,"Failed to load properties file for project 'testDB'",1401806772296
+error,log,,,"Failed to load properties file for project 'testDB'",1401806772396
+activated,view,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.adt.internal.lint.LintViewPart",1401806772400
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785394
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785402
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785411
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785417
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785424
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785435
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785441
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785448
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785454
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785460
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785465
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785472
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785477
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785484
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785492
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785498
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785503
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785509
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785514
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785520
+error,log,,,"Failed to load properties file for project 'testDB'",1401806785525
+error,log,,,"Failed to load properties file for project 'testDB'",1401806920486
+error,log,,,"Failed to load properties file for project 'testDB'",1401806920515
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930775
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930785
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930793
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930801
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930809
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930817
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930827
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930838
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930848
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930858
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930868
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930878
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930888
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930897
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930909
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930918
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930926
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930933
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930941
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930948
+error,log,,,"Failed to load properties file for project 'testDB'",1401806930956
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401806943965
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401806993912
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1401806996723
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1401806996890
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401807011507
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1401807024700
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1401807039771
+error,log,,,"Failed to load properties file for project 'testDB'",1401807057046
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807057240
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807060838
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807061818
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807068288
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401807088814
+error,log,,,"Failed to load properties file for project 'testDB'",1401807094466
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807094611
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807099059
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807099909
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807103572
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1401807108006
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401807147273
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401807150192
+error,log,,,"Failed to load properties file for project 'testDB'",1401807157570
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807157699
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807167796
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1401807168985
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1401807190722
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401807200234
+error,log,,,"Failed to load properties file for project 'testDB'",1401807205283
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807205358
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807750575
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401807767580
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401808050648
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1401808050813
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808075254
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401808083079
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808083354
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808083437
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401808086350
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808086633
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808086707
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401808088769
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808089109
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808089197
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401808090157
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808090371
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401808092226
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808092492
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808092578
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401808093656
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808093946
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808094036
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401808095375
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401808103796
+started,bundle,org.eclipse.ant.ui,3.5.0.v20100427,"org.eclipse.ant.ui",1401808141731
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808142393
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1401808142496
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808142518
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808142537
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808142566
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808142594
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808142612
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401808143000
+executed,command,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.edit.text.java.rename.element",1401808143061
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808154532
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808154605
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401808157515
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401808164426
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1401808190558
+executed,command,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.edit.text.java.rename.element",1401808190581
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\testDB\\AndroidManifest.xml: The markup in the document preceding the root element must be well-formed.",1401808199080
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1401808199247
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808207095
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401808219024
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808219260
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808219396
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401808222920
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808223107
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401808231174
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808231413
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808231512
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1401808247915
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808256699
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1401808256778

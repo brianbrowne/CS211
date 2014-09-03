@@ -1,0 +1,262 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263723123
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263749584
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1379263750802
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263770852
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263776481
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263781568
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263783925
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379263790521
+error,log,,,"Parser exception for /MapTest/AndroidManifest.xml: Element type ""uses-permission"" must be followed by either attribute specifications, "">"" or ""/>"".",1379263790707
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263847036
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263848309
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263854770
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263913575
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263913693
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263916015
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1379263916090
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263922617
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379263931448
+error,log,,,"Malformed manifest",1379263941144
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379263941152
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\MapTest\\AndroidManifest.xml: Element type ""uses-permission"" must be followed by either attribute specifications, "">"" or ""/>"".",1379263941326
+error,log,,,"Malformed manifest",1379263972359
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379263972368
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\MapTest\\AndroidManifest.xml: Element type ""uses-permission"" must be followed by either attribute specifications, "">"" or ""/>"".",1379263972564
+error,log,,,"Malformed manifest",1379264001241
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264001253
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\MapTest\\AndroidManifest.xml: Element type ""uses-permission"" must be followed by either attribute specifications, "">"" or ""/>"".",1379264001379
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264026320
+error,log,,,"Malformed manifest",1379264054300
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264054310
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\MapTest\\AndroidManifest.xml: Element type ""permission"" must be followed by either attribute specifications, "">"" or ""/>"".",1379264054437
+error,log,,,"Malformed manifest",1379264089960
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264089968
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\MapTest\\AndroidManifest.xml: Element type ""permission"" must be followed by either attribute specifications, "">"" or ""/>"".",1379264090091
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1379264098143
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1379264098607
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1379264099071
+error,log,,,"Malformed manifest",1379264102007
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264102014
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\MapTest\\AndroidManifest.xml: Element type ""permission"" must be followed by either attribute specifications, "">"" or ""/>"".",1379264102260
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1379264105363
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1379264106300
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264108413
+error,log,,,"Malformed manifest",1379264156343
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264156352
+error,log,,,"Failed to add marker 'com.android.ide.eclipse.adt.lintProblem' to '/MapTest/AndroidManifest.xml'",1379264156360
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\MapTest\\AndroidManifest.xml: The element type ""uses-permission"" must be terminated by the matching end-tag ""</uses-permission>"".",1379264156561
+error,log,,,"Malformed manifest",1379264171969
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264171977
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\MapTest\\AndroidManifest.xml: The element type ""uses-permission"" must be terminated by the matching end-tag ""</uses-permission>"".",1379264172239
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1379264184615
+error,log,,,"Malformed manifest",1379264191493
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264191501
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\MapTest\\AndroidManifest.xml: Element type ""application"" must be followed by either attribute specifications, "">"" or ""/>"".",1379264191638
+started,bundle,org.eclipse.compare,3.5.101.R36x_v20100929-0800,"org.eclipse.compare",1379264205392
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.cut",1379264207343
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1379264213588
+error,log,,,"Malformed manifest",1379264216695
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264216704
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\MapTest\\AndroidManifest.xml: The element type ""uses-permission"" must be terminated by the matching end-tag ""</uses-permission>"".",1379264216852
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264240291
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264256642
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264267495
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1379264270126
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264282325
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264288174
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1379264289000
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264290765
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1379264294678
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264300266
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264304285
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1379264304502
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264307336
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264336245
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264336500
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264339683
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264346659
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264346697
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264346706
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264362656
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264370914
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264373058
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1379264373387
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264383134
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264398253
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1379264407423
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264410955
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264720558
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.import",1379264720625
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.import",1379264720625
+error,log,,,"",1379264722350
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264729603
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264730567
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264739447
+started,bundle,org.eclipse.jdt.junit,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.junit",1379264769378
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264773041
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.properties",1379264773166
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264775648
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264794094
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1379264794164
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1379264812451
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1379264852602
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1379264852699
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1379264854901
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1379264855906
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1379264857564
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1379264857565
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1379264858995
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264895651
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264899863
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1379264899880
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264907946
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264913528
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1379264914067
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1379264914154
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264917956
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264925012
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1379264925227
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1379264935325
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1379264937209
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1379264939549
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1379264945663
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379264948596
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379265398010
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379265399046
+started,bundle,org.eclipse.jdt.junit.core,3.6.1.r361_v20100825-0800,"org.eclipse.jdt.junit.core",1379265400259
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379265402691
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379265403748
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379269229195
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1379269250504
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379269250663
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379269257604
+closed,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1379269258609
+stopped,bundle,org.eclipse.mylyn.ide.ant,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.ide.ant",1379269274565
+stopped,bundle,org.eclipse.ant.ui,3.5.0.v20100427,"org.eclipse.ant.ui",1379269274565
+stopped,bundle,org.eclipse.ant.launching,1.0.1.v20101020_r362,"org.eclipse.ant.launching",1379269274590
+activated,perspective,org.eclipse.jdt.ui,,"org.eclipse.jdt.ui.JavaPerspective",1380269456692
+started,bundle,org.eclipse.osgi,3.6.2.R36x_v20110210,"org.eclipse.osgi",1380269456692
+started,bundle,org.eclipse.equinox.simpleconfigurator,1.0.200.v20100503,"org.eclipse.equinox.simpleconfigurator",1380269456708
+started,bundle,com.ibm.icu,4.2.1.v20100412,"com.ibm.icu",1380269456708
+started,bundle,org.eclipse.compare.core,3.5.101.R36x_v20100929-0800,"org.eclipse.compare.core",1380269456708
+started,bundle,org.eclipse.core.contenttype,3.4.100.v20100505-1235,"org.eclipse.core.contenttype",1380269456708
+started,bundle,org.eclipse.core.databinding.observable,1.3.0.I20100601-0800,"org.eclipse.core.databinding.observable",1380269456708
+started,bundle,org.eclipse.core.expressions,3.4.200.v20100505,"org.eclipse.core.expressions",1380269456708
+started,bundle,org.eclipse.core.filebuffers,3.5.100.v20100520-0800,"org.eclipse.core.filebuffers",1380269456708
+started,bundle,org.eclipse.core.filesystem,1.3.1.R36x_v20100727-0745,"org.eclipse.core.filesystem",1380269456708
+started,bundle,org.eclipse.core.jobs,3.5.1.R36x_v20100824,"org.eclipse.core.jobs",1380269456708
+started,bundle,org.eclipse.core.net,1.2.100.I20100511-0800,"org.eclipse.core.net",1380269456723
+started,bundle,org.eclipse.core.resources,3.6.1.R36x_v20110131-1630,"org.eclipse.core.resources",1380269456739
+started,bundle,org.eclipse.core.runtime,3.6.0.v20100505,"org.eclipse.core.runtime",1380269456754
+started,bundle,org.eclipse.core.runtime.compatibility,3.2.100.v20100505,"org.eclipse.core.runtime.compatibility",1380269456754
+started,bundle,org.eclipse.core.runtime.compatibility.auth,3.2.200.v20100517,"org.eclipse.core.runtime.compatibility.auth",1380269456754
+started,bundle,org.eclipse.epp.usagedata.gathering,1.3.1.R201102081640,"org.eclipse.epp.usagedata.gathering",1380269456754
+started,bundle,org.eclipse.epp.usagedata.recording,1.3.1.R201102081640,"org.eclipse.epp.usagedata.recording",1380269456754
+started,bundle,org.eclipse.equinox.app,1.3.1.R36x_v20100803,"org.eclipse.equinox.app",1380269456754
+started,bundle,org.eclipse.equinox.common,3.6.0.v20100503,"org.eclipse.equinox.common",1380269456754
+started,bundle,org.eclipse.equinox.ds,1.2.1.R36x_v20100803,"org.eclipse.equinox.ds",1380269456754
+started,bundle,org.eclipse.equinox.event,1.2.0.v20100503,"org.eclipse.equinox.event",1380269456754
+started,bundle,org.eclipse.equinox.p2.core,2.0.3.R36x_v20110111,"org.eclipse.equinox.p2.core",1380269456770
+started,bundle,org.eclipse.equinox.p2.directorywatcher,1.0.203.R36x_v20101220,"org.eclipse.equinox.p2.directorywatcher",1380269456770
+started,bundle,org.eclipse.equinox.p2.engine,2.0.1.R36x_v20110201,"org.eclipse.equinox.p2.engine",1380269456770
+started,bundle,org.eclipse.equinox.p2.metadata,2.0.1.R36x_v20101202,"org.eclipse.equinox.p2.metadata",1380269456770
+started,bundle,org.eclipse.equinox.p2.operations,2.0.0.v20100510,"org.eclipse.equinox.p2.operations",1380269456770
+started,bundle,org.eclipse.equinox.p2.reconciler.dropins,1.1.2.R36x_v20110114,"org.eclipse.equinox.p2.reconciler.dropins",1380269456770
+started,bundle,org.eclipse.equinox.p2.repository,2.0.2.R36x_v20110111-1500,"org.eclipse.equinox.p2.repository",1380269456770
+started,bundle,org.eclipse.equinox.preferences,3.3.0.v20100503,"org.eclipse.equinox.preferences",1380269456786
+started,bundle,org.eclipse.equinox.registry,3.5.0.v20100503,"org.eclipse.equinox.registry",1380269456786
+started,bundle,org.eclipse.equinox.security,1.0.200.v20100503,"org.eclipse.equinox.security",1380269456786
+started,bundle,org.eclipse.equinox.util,1.0.200.v20100503,"org.eclipse.equinox.util",1380269456786
+started,bundle,org.eclipse.help,3.5.0.v20100524,"org.eclipse.help",1380269456817
+started,bundle,org.eclipse.jdt.core,3.6.2.v_A76_R36x,"org.eclipse.jdt.core",1380269456832
+started,bundle,org.eclipse.jdt.core.manipulation,1.3.0.v20100520-0800,"org.eclipse.jdt.core.manipulation",1380269456832
+started,bundle,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui",1380269456832
+started,bundle,org.eclipse.jface,3.6.2.M20110210-1200,"org.eclipse.jface",1380269456832
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.101.r362_v20101117-0800,"org.eclipse.ltk.core.refactoring",1380269456832
+started,bundle,org.eclipse.ltk.ui.refactoring,3.5.0.v20100526-0800,"org.eclipse.ltk.ui.refactoring",1380269456910
+started,bundle,org.eclipse.team.core,3.5.101.R36x_v20110203-1036,"org.eclipse.team.core",1380269456910
+started,bundle,org.eclipse.team.ui,3.5.102.R36x_v20110203-1036,"org.eclipse.team.ui",1380269456988
+started,bundle,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui",1380269457004
+started,bundle,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console",1380269457004
+started,bundle,org.eclipse.ui.editors,3.6.1.r361_v20100825-0800,"org.eclipse.ui.editors",1380269457004
+started,bundle,org.eclipse.ui.forms,3.5.2.r36_v20100702,"org.eclipse.ui.forms",1380269457004
+started,bundle,org.eclipse.ui.ide,3.6.2.M20101201-0800,"org.eclipse.ui.ide",1380269457020
+started,bundle,org.eclipse.ui.net,1.2.100.I20100505-1245,"org.eclipse.ui.net",1380269457020
+started,bundle,org.eclipse.ui.views,3.5.1.M20110202-0800,"org.eclipse.ui.views",1380269457020
+started,bundle,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"org.eclipse.ui.workbench",1380269457035
+started,bundle,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.workbench.texteditor",1380269457066
+started,bundle,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.adt",1380269457066
+started,bundle,com.android.ide.eclipse.base,22.0.5.v201307292155--757759,"com.android.ide.eclipse.base",1380269457066
+os,sysinfo,,,"win32",1380269457082
+arch,sysinfo,,,"x86_64",1380269457082
+ws,sysinfo,,,"win32",1380269457082
+locale,sysinfo,,,"en_US",1380269457082
+processors,sysinfo,,,"4",1380269457082
+java.runtime.name,sysinfo,,,"Java(TM) SE Runtime Environment",1380269457082
+java.runtime.version,sysinfo,,,"1.7.0-b147",1380269457082
+java.specification.name,sysinfo,,,"Java Platform API Specification",1380269457082
+java.specification.vendor,sysinfo,,,"Oracle Corporation",1380269457082
+java.specification.version,sysinfo,,,"1.7",1380269457082
+java.vendor,sysinfo,,,"Oracle Corporation",1380269457082
+java.version,sysinfo,,,"1.7.0",1380269457082
+java.vm.info,sysinfo,,,"mixed mode",1380269457082
+java.vm.name,sysinfo,,,"Java HotSpot(TM) 64-Bit Server VM",1380269457082
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1380269457082
+java.vm.specification.vendor,sysinfo,,,"Oracle Corporation",1380269457082
+java.vm.specification.version,sysinfo,,,"1.7",1380269457082
+java.vm.vendor,sysinfo,,,"Oracle Corporation",1380269457082
+java.vm.version,sysinfo,,,"21.0-b17",1380269457082
+started,bundle,org.eclipse.equinox.p2.ui.sdk.scheduler,1.0.0.v20100507-1815,"org.eclipse.equinox.p2.ui.sdk.scheduler",1380269457459
+started,bundle,org.eclipse.jsch.core,1.1.200.I20100505-1245,"org.eclipse.jsch.core",1380269457680
+started,bundle,org.eclipse.team.cvs.core,3.3.301.R36x_v20110119-0815,"org.eclipse.team.cvs.core",1380269457687
+started,bundle,org.eclipse.equinox.p2.updatechecker,1.1.101.R36x_v20100823,"org.eclipse.equinox.p2.updatechecker",1380269458226
+started,bundle,org.eclipse.epp.usagedata.ui,1.3.1.R201102081640,"org.eclipse.epp.usagedata.ui",1380269458242
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1380269459038
+started,bundle,org.eclipse.mylyn.monitor.ui,3.4.1.v20110131-0100-e3x,"org.eclipse.mylyn.monitor.ui",1380269460646
+started,bundle,org.eclipse.debug.core,3.6.0.v20100519,"org.eclipse.debug.core",1380269460740
+started,bundle,org.eclipse.mylyn.commons.net,3.4.1.v20100625-2100-e3x,"org.eclipse.mylyn.commons.net",1380269461005
+started,bundle,org.eclipse.team.cvs.ui,3.3.302.R36x_v20110203-1036,"org.eclipse.team.cvs.ui",1380269461068
+started,bundle,org.eclipse.jdt.launching,3.5.200.v20110105_r362,"org.eclipse.jdt.launching",1380269461114
+started,bundle,org.eclipse.mylyn.commons.ui,3.4.0.v20100608-0100-e3x,"org.eclipse.mylyn.commons.ui",1380269462815
+started,bundle,org.eclipse.mylyn.bugzilla.core,3.4.2.v20100902-0100-e3x,"org.eclipse.mylyn.bugzilla.core",1380269463283
+started,bundle,org.eclipse.mylyn.bugzilla.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.bugzilla.ui",1380269463642
+started,bundle,org.eclipse.mylyn.context.core,3.4.1.v20100909-0100-e3x,"org.eclipse.mylyn.context.core",1380269465155
+started,bundle,org.eclipse.mylyn.context.ui,3.4.2.v20110131-0100-e3x,"org.eclipse.mylyn.context.ui",1380269465404
+started,bundle,org.eclipse.jdt.apt.core,3.3.402.R36_v20110120-1000,"org.eclipse.jdt.apt.core",1380269466387
+started,bundle,org.eclipse.jdt.apt.pluggable.core,1.0.301.R36_v20100727-0110,"org.eclipse.jdt.apt.pluggable.core",1380269466762
+started,bundle,org.eclipse.mylyn.tasks.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.tasks.ui",1380269467605
+started,bundle,org.eclipse.mylyn.team.ui,3.4.3.v20110131-0100-e3x,"org.eclipse.mylyn.team.ui",1380269467605
+started,bundle,org.eclipse.update.scheduler,3.2.300.v20100512,"org.eclipse.update.scheduler",1380269467964
+started,bundle,org.eclipse.update.configurator,3.3.100.v20100512,"org.eclipse.update.configurator",1380269470024
+started,bundle,org.eclipse.update.core,3.2.402.R36x_v20100629,"org.eclipse.update.core",1380269470071
+started,bundle,org.eclipse.core.variables,3.2.400.v20100505,"org.eclipse.core.variables",1380269476482
+started,bundle,org.eclipse.wst.sse.core,1.1.504.v201102160550,"org.eclipse.wst.sse.core",1380269477224
+started,bundle,org.eclipse.wst.sse.ui,1.2.3.v201102102045,"org.eclipse.wst.sse.ui",1380269477793
+started,bundle,org.eclipse.wst.xml.ui,1.1.103.v201101122108,"org.eclipse.wst.xml.ui",1380269478034
+started,bundle,org.eclipse.wst.xml.core,1.1.503.v201102102045,"org.eclipse.wst.xml.core",1380269481631
+started,bundle,org.eclipse.wst.common.uriresolver,1.1.401.v201004280700,"org.eclipse.wst.common.uriresolver",1380269482121
+started,bundle,org.eclipse.debug.ui,3.6.3.v20101201_r362,"org.eclipse.debug.ui",1380269485633
+started,bundle,org.eclipse.wst.validation,1.2.201.v201101270100,"org.eclipse.wst.validation",1380269487453
+started,bundle,org.eclipse.wst.common.project.facet.core,1.4.102.v201008170019,"org.eclipse.wst.common.project.facet.core",1380269487479
+started,bundle,org.eclipse.wst.dtd.ui,1.0.500.v201004290328,"org.eclipse.wst.dtd.ui",1380269488298
+started,bundle,org.eclipse.emf.common,2.6.0.v20100914-1218,"org.eclipse.emf.common",1380269488398
+started,bundle,org.eclipse.wst.common.frameworks,1.2.0.v201003040800,"org.eclipse.wst.common.frameworks",1380269488494
+opened,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1380269488955
+started,bundle,org.eclipse.wst.internet.cache,1.0.400.v201004280700,"org.eclipse.wst.internet.cache",1380269490018
+started,bundle,org.eclipse.jdt.debug,3.6.1.v20100715_r361,"org.eclipse.jdt.debug",1380269491904
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1380269492192
+opened,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1380269505824
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1380269505936
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1380269533931
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1380269606330
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1380269606344
+started,bundle,com.android.ide.eclipse.ddms,22.0.5.v201307292155--757759,"com.android.ide.eclipse.ddms",1380269614662
+started,bundle,com.android.ide.eclipse.traceview,22.0.5.v201307292155--757759,"com.android.ide.eclipse.traceview",1380269621325
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1380269916575
+started,bundle,org.eclipse.jdt.debug.ui,3.5.2.v20100928a_r362,"org.eclipse.jdt.debug.ui",1380269917277
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1380269917449
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1380269921145
+activated,editor,com.android.ide.eclipse.adt,22.0.5.v201307292155--757759,"com.android.ide.eclipse.editors.CommonXmlEditor",1380269924671
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1380269947978
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1380269998569

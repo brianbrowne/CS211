@@ -1,0 +1,168 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#5089D6"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".CNW" >
+    
+    <RelativeLayout
+            android:id="@+id/RelLayCNW"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+    
+    
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="Contact Your TD!" />
+    <TextView
+        android:id="@+id/filler"
+        android:layout_width="wrap_content"
+        android:layout_height="20dip"
+        android:layout_below="@+id/textview1" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewAinCol"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filler"
+        android:textSize="20sp"
+        android:text="Aine Collins" />
+    
+    <EditText
+        android:id="@+id/SubjectAinCol"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewAinCol"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45sp"
+        android:layout_toRightOf="@+id/SubjectAinCol"
+        android:src="@drawable/ainecollins" />
+    
+    <EditText
+        android:id="@+id/messageAinCol"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectAinCol"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer223"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageAinCol" />
+    
+    <Button
+        android:id="@+id/sendEmailAinCol"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer223"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer224"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailAinCol" />
+    
+    <Button
+        android:id="@+id/AinColwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer224"
+        android:onClick="onClickSendEmailAinCol"
+        android:text="Open Aine Collins's website" />
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewMicCre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380dip"
+        android:textSize="20sp"
+        android:text="Michael Creed" />
+    
+    <EditText
+        android:id="@+id/SubjectMicCre"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewMicCre"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewMicCre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="390dip"
+        android:layout_toRightOf="@+id/SubjectMicCre"
+        android:src="@drawable/michaelcreed" />
+    
+    <EditText
+        android:id="@+id/messageMicCre"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectMicCre"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer225"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageMicCre" />
+    
+    <Button
+        android:id="@+id/sendEmailMicCre"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer225"
+        android:onClick="onClickSendEmailMicCre"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer226"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailMicCre" />
+    
+    <Button
+        android:id="@+id/MicCrewebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer226"
+        android:onClick="onClickSendEmail1"
+        android:text="Open Michael Creed's website" />
+    
+    </RelativeLayout>
+
+</ScrollView>

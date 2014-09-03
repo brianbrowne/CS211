@@ -1,0 +1,208 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RoomsRelView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#D7D1C5"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".TheRooms" >
+
+    <!-- This activity contains a fragment that is used to house a MapFragment and below that there is a ScrollView
+    	which has a RelativeLayout which allows the buttons to be placed in a columns and they have strings which display
+    	the short versions of the names.    -->
+
+    <fragment
+        android:id="@+id/map"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="285dip" />
+
+    <ScrollView
+        android:id="@+id/ScrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/map" >
+
+        <RelativeLayout
+            android:id="@+id/RLAY3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center" >
+
+            <!-- The buttons are made to look like a grid by having a margin to the left on the second and third buttons
+            	of each row and by having a blank text view below every row of buttons      -->
+
+            <Button
+                android:id="@+id/button7"
+                style="@style/ButtonsTheRooms"
+                android:onClick="onClickJHL5"
+                android:text="@string/JHL5" />
+
+            <Button
+                android:id="@+id/button8"
+                style="@style/ButtonsTheRooms"
+                android:layout_marginLeft="4dip"
+                android:layout_toRightOf="@+id/button7"
+                android:onClick="onClickJHL6"
+                android:padding="6dip"
+                android:text="@string/JHL6" />
+            
+            <!-- The android:layout_marginLeft="4dip" provides a space between the button it is being used in and the button to its left,
+            	makes the buttons easier to see for the user -->
+
+            <Button
+                android:id="@+id/button9"
+                style="@style/ButtonsTheRooms"
+                android:layout_marginLeft="4dip"
+                android:layout_toRightOf="@+id/button8"
+                android:onClick="onClickJHT4"
+                android:text="@string/JHT4" />
+            
+            <!--  This TextView below provides the space seen between the buttons when the project is run -->
+
+            <TextView
+                android:id="@+id/spacer1"
+                android:layout_width="300dip"
+                android:layout_height="4dip"
+                android:layout_below="@+id/button7" />
+
+            <Button
+                android:id="@+id/button10"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer1"
+                android:onClick="onClickJHT5"
+                android:text="@string/JHT5" />
+
+            <Button
+                android:id="@+id/button11"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer1"
+                android:layout_marginLeft="4dip"
+                android:layout_toRightOf="@+id/button10"
+                android:onClick="onClickJHT6"
+                android:text="@string/JHT6" />
+
+            <Button
+                android:id="@+id/button12"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer1"
+                android:layout_marginLeft="4dip"
+                android:layout_toRightOf="@+id/button11"
+                android:onClick="onClickJHT7"
+                android:text="@string/JHT7" />
+
+            <TextView
+                android:id="@+id/spacer2"
+                android:layout_width="300dip"
+                android:layout_height="4dip"
+                android:layout_below="@+id/button10" />
+
+            <Button
+                android:id="@+id/button13"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer2"
+                android:onClick="onClickJHT8"
+                android:text="@string/JHT8" />
+
+            <Button
+                android:id="@+id/button14"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer2"
+                android:layout_marginLeft="4dip"
+                android:layout_toRightOf="@+id/button13"
+                android:onClick="onClickJHT9"
+                android:text="@string/JHT9" />
+
+            <Button
+                android:id="@+id/button15"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer2"
+                android:layout_marginLeft="4dip"
+                android:layout_toRightOf="@+id/button14"
+                android:onClick="onClickJHT10"
+                android:text="@string/JHT10" />
+
+            <TextView
+                android:id="@+id/spacer3"
+                android:layout_width="300dip"
+                android:layout_height="4dip"
+                android:layout_below="@+id/button13" />
+
+            <Button
+                android:id="@+id/button1"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer3"
+                android:onClick="onClickLOLOF"
+                android:text="@string/LowerLoftus" />
+
+            <Button
+                android:id="@+id/button16"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer3"
+                android:layout_marginLeft="4dip"
+                android:layout_toRightOf="@+id/button1"
+                android:onClick="onClickLNGCORR"
+                android:text="@string/LongCorridor" />
+
+            <Button
+                android:id="@+id/button5"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer3"
+                android:layout_marginLeft="4dip"
+                android:layout_toRightOf="@+id/button16"
+                android:onClick="onClickRYEHA"
+                android:text="@string/RyeHall" />
+
+            <TextView
+                android:id="@+id/spacer4"
+                android:layout_width="300dip"
+                android:layout_height="4dip"
+                android:layout_below="@+id/button1" />
+
+            <Button
+                android:id="@+id/button2"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer4"
+                android:onClick="onClickMSH"
+                android:text="@string/MainSportsHall" />
+
+            <Button
+                android:id="@+id/button4"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer4"
+                android:layout_marginLeft="4dip"
+                android:layout_toRightOf="@+id/button2"
+                android:onClick="onClickIONFOY"
+                android:text="@string/IontasFoyer" />
+
+            <Button
+                android:id="@+id/button3"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer4"
+                android:layout_marginLeft="4dip"
+                android:layout_toRightOf="@+id/button4"
+                android:onClick="onClickSSHA"
+                android:text="@string/SmallSportsHall" />
+
+            <TextView
+                android:id="@+id/spacer5"
+                android:layout_width="300dip"
+                android:layout_height="4dip"
+                android:layout_below="@+id/button2" />
+
+            <Button
+                android:id="@+id/button6"
+                style="@style/ButtonsTheRooms"
+                android:layout_below="@+id/spacer5"
+                android:layout_marginLeft="4dip"
+                android:layout_toRightOf="@+id/button2"
+                android:onClick="onClickAAX1"
+                android:text="@string/AuxillaAX1" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,98 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#5089D6"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".KilNor" >
+
+    <RelativeLayout
+            android:id="@+id/RelLayKerryNor"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+    
+    
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="Contact Your TD!" />
+    <TextView
+        android:id="@+id/filler"
+        android:layout_width="wrap_content"
+        android:layout_height="20dip"
+        android:layout_below="@+id/textview1" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewBerDur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filler"
+        android:textSize="20sp"
+        android:text="Bernard Durkan" />
+    
+    <EditText
+        android:id="@+id/SubjectBerDur"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewBerDur"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45sp"
+        android:layout_toRightOf="@+id/SubjectBerDur"
+        android:src="@drawable/bernarddurkan" />
+    
+    <EditText
+        android:id="@+id/messageBerDur"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectBerDur"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer132"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageBerDur" />
+    
+    <Button
+        android:id="@+id/sendEmailBerDur"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer132"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer133"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailBerDur" />
+    
+    <Button
+        android:id="@+id/BerDurwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer133"
+        android:onClick="onClickSendEmailBerDur"
+        android:text="Open Bernard Durkan's website" />
+    
+    </RelativeLayout>
+    </ScrollView>

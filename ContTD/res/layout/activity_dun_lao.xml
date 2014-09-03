@@ -1,0 +1,232 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#5089D6"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".DunLao" >
+
+    <RelativeLayout
+            android:id="@+id/RelLayDunLao"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+    
+    
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="Contact Your TD!" />
+    <TextView
+        android:id="@+id/filler"
+        android:layout_width="wrap_content"
+        android:layout_height="20dip"
+        android:layout_below="@+id/textview1" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewEamGil"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filler"
+        android:textSize="20sp"
+        android:text="Eamon Gilmore" />
+    
+    <EditText
+        android:id="@+id/SubjectEamGil"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewEamGil"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45sp"
+        android:layout_toRightOf="@+id/SubjectEamGil"
+        android:src="@drawable/eamongilmore" />
+    
+    <EditText
+        android:id="@+id/messageEamGil"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectEamGil"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer148"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageEamGil" />
+    
+    <Button
+        android:id="@+id/sendEmailEamGil"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer148"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer149"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailEamGil" />
+    
+    <Button
+        android:id="@+id/EamGilwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer149"
+        android:onClick="onClickSendEmailEamGil"
+        android:text="Open Eamon Gilmore's website" />
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewRicBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380dip"
+        android:textSize="20sp"
+        android:text="Richard Boyd Barrett" />
+    
+    <EditText
+        android:id="@+id/SubjectRicBar"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewRicBar"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewRicBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="390dip"
+        android:layout_toRightOf="@+id/SubjectRicBar"
+        android:src="@drawable/richardboydbarrett" />
+    
+    <EditText
+        android:id="@+id/messageRicBar"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectRicBar"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer150"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageRicBar" />
+    
+    <Button
+        android:id="@+id/sendEmailRicBar"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer150"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer151"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailRicBar" />
+    
+    <Button
+        android:id="@+id/RicBarwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer151"
+        android:text="Open Richard Boyd Barrett's website" />
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewSeaBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="680dip"
+        android:textSize="20sp"
+        android:text="Sean Barrett" />
+    
+    <EditText
+        android:id="@+id/SubjectSeaBar"
+        android:layout_width="450dip"
+        android:textColor="#FF0000"
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewSeaBar"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewSeaBar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="690dip"
+        android:layout_toRightOf="@+id/SubjectSeaBar"
+        android:src="@drawable/seanbarrett" />
+    
+    <EditText
+        android:id="@+id/messageSeaBar"
+        android:layout_width="450dip"
+        android:textColor="#FF0000"
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectSeaBar"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer152"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageSeaBar" />
+    
+    <Button
+        android:id="@+id/sendEmailSeaBar"
+        android:layout_width="450dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer152"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer153"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailSeaBar" />
+    
+    <Button
+        android:id="@+id/SeaBarwebsite"
+        android:layout_width="450dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer153"
+        android:text="Open Sean Barrett's website" />   
+
+</RelativeLayout>
+</ScrollView>

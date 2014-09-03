@@ -1,0 +1,241 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:background="#5089D6"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MeW" >
+
+    <RelativeLayout
+            android:id="@+id/RelLayMeW"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+    
+    
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="Contact Your TD!" />
+    <TextView
+        android:id="@+id/filler"
+        android:layout_width="wrap_content"
+        android:layout_height="20dip"
+        android:layout_below="@+id/textview1" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewDamEng"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filler"
+        android:textSize="20sp"
+        android:text="Damien English" />
+    
+    <EditText
+        android:id="@+id/SubjectDamEng"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewDamEng"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45sp"
+        android:layout_toRightOf="@+id/SubjectDamEng"
+        android:src="@drawable/damienenglish" />
+    
+    <EditText
+        android:id="@+id/messageDamEng"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectDamEng"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer500"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageDamEng" />
+    
+    <Button
+        android:id="@+id/sendEmailDamEng"
+        android:layout_width="285dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer500"
+        android:background="#32cd32"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer501"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailDamEng" />
+    
+         <Button
+        android:id="@+id/DamEngwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer501"
+        android:onClick="onClickSendEmailDamEng"
+        android:text="Open Damien English's website" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewPeaToi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380sp"
+        android:textSize="20sp"
+        android:text="Peader Toibin" />
+    
+    <EditText
+        android:id="@+id/SubjectPeaToi"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewPeaToi"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewPeaToi"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="390sp"
+        android:layout_toRightOf="@+id/SubjectPeaToi"
+        android:src="@drawable/peadertoibin" />
+    
+    <EditText
+        android:id="@+id/messagePeaToi"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectPeaToi"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer502"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messagePeaToi" />
+    
+    <Button
+        android:id="@+id/sendEmailPeaToi"
+        android:layout_width="285dip"
+        android:layout_height="wrap_content"
+        android:background="#32cd32"
+        android:layout_below="@+id/spacer502"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer503"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailPeaToi" />
+    
+       <Button
+        android:id="@+id/PeaToiwebsite"
+        android:layout_width="285dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer503"
+        android:onClick="onClickSendEmailPeaToi"
+        android:background="#32cd32"
+        android:text="Open Peader Toibin's website" />
+       
+       
+       
+       
+       
+       
+       
+       
+       <TextView
+        android:id="@+id/textviewRayBut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="680sp"
+        android:textSize="20sp"
+        android:text="Ray Butler" />
+    
+    <EditText
+        android:id="@+id/SubjectRayBut"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewRayBut"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewRayBut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="690sp"
+        android:layout_toRightOf="@+id/SubjectRayBut"
+        android:src="@drawable/raybutler" />
+    
+    <EditText
+        android:id="@+id/messageRayBut"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectRayBut"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer505"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageRayBut" />
+    
+    <Button
+        android:id="@+id/sendEmailRayBut"
+        android:layout_width="285dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer505"
+        android:onClick="onClickSendEmail1"
+        android:background="#32cd32"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer506"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailRayBut" />
+    
+       <Button
+        android:id="@+id/RayButwebsite"
+        android:layout_width="285dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer506"
+        android:background="#32cd32"
+        android:onClick="onClickSendEmailRayBut"
+        android:text="Open Ray Butler's website" />
+
+</RelativeLayout>
+</ScrollView>

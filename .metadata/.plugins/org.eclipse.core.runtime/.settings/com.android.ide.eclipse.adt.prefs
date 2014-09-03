@@ -1,0 +1,9 @@
+#Thu Jun 12 16:06:10 BST 2014
+com.android.ide.eclipse.adt.sdk=C\:\\Users\\Brian\\android-sdks
+design.structure.flyout.width=314
+com.android.ide.eclipse.adt.skipPostCompileOnFileSave=false
+com.android.ide.eclipse.adt.lintSeverities=ExtraTranslation\=WARNING,GridLayout\=ERROR,MissingTranslation\=WARNING,MultipleUsesSdk\=ERROR,PrivateResource\=ERROR,Proguard\=ERROR,StyleCycle\=ERROR,UnknownId\=ERROR,WrongManifestParent\=ERROR
+eclipse.preferences.version=1
+design.palette.flyout.width=150
+com.android.ide.eclipse.adt.fixLegacyEditors=1
+com.android.ide.eclipse.adt.xmlEditor=true

@@ -1,0 +1,1188 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#D7D1C5"
+    tools:context=".LectLocator" >
+    
+    <!-- This activity contains a fragment that is used to house a MapFragment and below that there is a ScrollView
+    	which has a RelativeLayout which allows the buttons to be placed in a column on the left of the screen
+    	and has a text view to the right of the screen taking up the rest of the screen and they have strings which display
+    	the long version of the name of the rooms and the buttons contain the short versions of the names. -->
+
+    <fragment
+        android:id="@+id/map2"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="285dip" />
+
+    <ScrollView
+        android:id="@+id/ScrollView2"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/map2" >
+
+        <RelativeLayout
+            android:id="@+id/RLAY23"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/button17"
+                style="@style/ButtonsLecLoc"
+                android:onClick="onClickRoom61"
+                android:text="@string/Room61" />
+
+            <TextView
+                android:id="@+id/textview1"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_toRightOf="@+id/button17"
+                android:gravity="center"
+                android:text="@string/TVRoom61"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button18"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button17"
+                android:onClick="onClickRoom62"
+                android:text="@string/Room62" />
+
+            <TextView
+                android:id="@+id/textview2"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button17"
+                android:layout_toRightOf="@+id/button18"
+                android:gravity="center"
+                android:text="@string/TVRoom62"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button19"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button18"
+                android:onClick="onClickAPT"
+                android:text="@string/APT" />
+
+            <TextView
+                android:id="@+id/textview3"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button18"
+                android:layout_toRightOf="@+id/button19"
+                android:gravity="center"
+                android:text="@string/TVAPT"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button20"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button19"
+                android:onClick="onClickAX1"
+                android:text="@string/AX1" />
+
+            <TextView
+                android:id="@+id/textview4"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button19"
+                android:layout_toRightOf="@+id/button20"
+                android:gravity="center"
+                android:text="@string/TVAX1"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button21"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button20"
+                android:onClick="onClickAX2"
+                android:text="@string/AX2" />
+
+            <TextView
+                android:id="@+id/textview5"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button20"
+                android:layout_toRightOf="@+id/button21"
+                android:gravity="center"
+                android:text="@string/TVAX2"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button22"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button21"
+                android:onClick="onClickBL"
+                android:text="@string/BL" />
+
+            <TextView
+                android:id="@+id/textview6"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button21"
+                android:layout_toRightOf="@+id/button22"
+                android:gravity="center"
+                android:text="@string/TVBL"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button23"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button22"
+                android:onClick="onClickBR"
+                android:text="@string/BR" />
+
+            <TextView
+                android:id="@+id/textview7"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button22"
+                android:layout_toRightOf="@+id/button23"
+                android:gravity="center"
+                android:text="@string/TVBR"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button24"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button23"
+                android:onClick="onClickCC1"
+                android:text="@string/CC1" />
+
+            <TextView
+                android:id="@+id/textview8"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button23"
+                android:layout_toRightOf="@+id/button24"
+                android:gravity="center"
+                android:text="@string/TVCC1"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button25"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button24"
+                android:onClick="onClickCC2"
+                android:text="@string/CC2" />
+
+            <TextView
+                android:id="@+id/textview9"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button24"
+                android:layout_toRightOf="@+id/button25"
+                android:gravity="center"
+                android:text="@string/TVCC2"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button26"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button25"
+                android:onClick="onClickCH"
+                android:text="@string/CH" />
+
+            <TextView
+                android:id="@+id/textview10"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button25"
+                android:layout_toRightOf="@+id/button26"
+                android:gravity="center"
+                android:text="@string/TVCH"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button27"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button26"
+                android:onClick="onClickCS1"
+                android:text="@string/CS1" />
+
+            <TextView
+                android:id="@+id/textview11"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button26"
+                android:layout_toRightOf="@+id/button27"
+                android:gravity="center"
+                android:text="@string/TVCS1"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button28"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button27"
+                android:onClick="onClickCS2"
+                android:text="@string/CS2" />
+
+            <TextView
+                android:id="@+id/textview12"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button27"
+                android:layout_toRightOf="@+id/button28"
+                android:gravity="center"
+                android:text="@string/TVCS2"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button29"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button28"
+                android:onClick="onClickCSR"
+                android:text="@string/CSR" />
+
+            <TextView
+                android:id="@+id/textview13"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button28"
+                android:layout_toRightOf="@+id/button29"
+                android:gravity="center"
+                android:text="@string/TVCSR"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button30"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button29"
+                android:onClick="onClickELT"
+                android:text="@string/ELT" />
+
+            <TextView
+                android:id="@+id/textview14"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button29"
+                android:layout_toRightOf="@+id/button30"
+                android:gravity="center"
+                android:text="@string/TVELT"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button31"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button30"
+                android:onClick="onClickESR"
+                android:text="@string/ESR" />
+
+            <TextView
+                android:id="@+id/textview15"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button30"
+                android:layout_toRightOf="@+id/button31"
+                android:gravity="center"
+                android:text="@string/TVESR"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button32"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button31"
+                android:onClick="onClickGR"
+                android:text="@string/GR" />
+
+            <TextView
+                android:id="@+id/textview16"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button31"
+                android:layout_toRightOf="@+id/button32"
+                android:gravity="center"
+                android:text="@string/TVGR"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button33"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button32"
+                android:onClick="onClickHA"
+                android:text="@string/HA" />
+
+            <TextView
+                android:id="@+id/textview17"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button32"
+                android:layout_toRightOf="@+id/button33"
+                android:gravity="center"
+                android:text="@string/TVHA"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button34"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button33"
+                android:onClick="onClickHB"
+                android:text="@string/HB" />
+
+            <TextView
+                android:id="@+id/textview18"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button33"
+                android:layout_toRightOf="@+id/button34"
+                android:gravity="center"
+                android:text="@string/TVHB"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button35"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button34"
+                android:onClick="onClickHC"
+                android:text="@string/HC" />
+
+            <TextView
+                android:id="@+id/textview19"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button34"
+                android:layout_toRightOf="@+id/button35"
+                android:gravity="center"
+                android:text="@string/TVHC"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button36"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button35"
+                android:onClick="onClickHD"
+                android:text="@string/HD" />
+
+            <TextView
+                android:id="@+id/textview20"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button35"
+                android:layout_toRightOf="@+id/button36"
+                android:gravity="center"
+                android:text="@string/TVHD"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button37"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button36"
+                android:onClick="onClickHE"
+                android:text="@string/HE" />
+
+            <TextView
+                android:id="@+id/textview21"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button36"
+                android:layout_toRightOf="@+id/button37"
+                android:gravity="center"
+                android:text="@string/TVHE"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button38"
+                style="@style/ButtonsLecLoc"
+                android:onClick="onClickHF"
+                android:layout_below="@+id/button37"
+                android:text="@string/HF" />
+
+            <TextView
+                android:id="@+id/textview22"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button37"
+                android:layout_toRightOf="@+id/button38"
+                android:gravity="center"
+                android:text="@string/TVHF"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button39"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button38"
+                android:onClick="onClickHH"
+                android:text="@string/HH" />
+
+            <TextView
+                android:id="@+id/textview23"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button38"
+                android:layout_toRightOf="@+id/button39"
+                android:gravity="center"
+                android:text="@string/TVHH"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button40"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button39"
+                android:onClick="onClickIONSEM"
+                android:text="@string/IONSEM" />
+
+            <TextView
+                android:id="@+id/textview24"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button39"
+                android:layout_toRightOf="@+id/button40"
+                android:gravity="center"
+                android:text="@string/TVIONSEM"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button41"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button40"
+                android:onClick="onClickJH1"
+                android:text="@string/JH1" />
+
+            <TextView
+                android:id="@+id/textview25"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button40"
+                android:layout_toRightOf="@+id/button41"
+                android:gravity="center"
+                android:text="@string/TVJH1"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button42"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button41"
+                android:onClick="onClickJH2"
+                android:text="@string/JH2" />
+
+            <TextView
+                android:id="@+id/textview26"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button41"
+                android:layout_toRightOf="@+id/button42"
+                android:gravity="center"
+                android:text="@string/TVJH2"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button43"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button42"
+                android:onClick="onClickJH3"
+                android:text="@string/JH3" />
+
+            <TextView
+                android:id="@+id/textview27"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button42"
+                android:layout_toRightOf="@+id/button43"
+                android:gravity="center"
+                android:text="@string/TVJH3"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button44"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button43"
+                android:onClick="onClickJH4"
+                android:text="@string/JH4" />
+
+            <TextView
+                android:id="@+id/textview28"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button43"
+                android:layout_toRightOf="@+id/button44"
+                android:gravity="center"
+                android:text="@string/TVJH4"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button45"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button44"
+                android:onClick="onClickJH5"
+                android:text="@string/JH5" />
+
+            <TextView
+                android:id="@+id/textview29"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button44"
+                android:layout_toRightOf="@+id/button45"
+                android:gravity="center"
+                android:text="@string/TVJH5"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button46"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button45"
+                android:onClick="onClickJH6"
+                android:text="@string/JH6" />
+
+            <TextView
+                android:id="@+id/textview30"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button45"
+                android:layout_toRightOf="@+id/button46"
+                android:gravity="center"
+                android:text="@string/TVJH6"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button47"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button46"
+                android:onClick="onClickJH7"
+                android:text="@string/JH7" />
+
+            <TextView
+                android:id="@+id/textview31"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button46"
+                android:layout_toRightOf="@+id/button47"
+                android:gravity="center"
+                android:text="@string/TVJH7"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button48"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button47"
+                android:onClick="onClickKC1"
+                android:text="@string/KC1" />
+
+            <TextView
+                android:id="@+id/textview32"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button47"
+                android:layout_toRightOf="@+id/button48"
+                android:gravity="center"
+                android:text="@string/TVKC1"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button49"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button48"
+                android:onClick="onClickKC2"
+                android:text="@string/KC2" />
+
+            <TextView
+                android:id="@+id/textview33"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button48"
+                android:layout_toRightOf="@+id/button49"
+                android:gravity="center"
+                android:text="@string/TVKC2"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button50"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button49"
+                android:onClick="onClickLC"
+                android:text="@string/LC" />
+
+            <TextView
+                android:id="@+id/textview34"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button49"
+                android:layout_toRightOf="@+id/button50"
+                android:gravity="center"
+                android:text="@string/TVLC"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button51"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button50"
+                android:onClick="onClickJHT1"
+                android:text="@string/JHT1" />
+
+            <TextView
+                android:id="@+id/textview35"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button50"
+                android:layout_toRightOf="@+id/button51"
+                android:gravity="center"
+                android:text="@string/TVJHT1"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button52"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button51"
+                android:onClick="onClickJHT2"
+                android:text="@string/JHT2" />
+
+            <TextView
+                android:id="@+id/textview36"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button51"
+                android:layout_toRightOf="@+id/button52"
+                android:gravity="center"
+                android:text="@string/TVJHT2"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button53"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button52"
+                android:onClick="onClickJHT3"
+                android:text="@string/JHT3" />
+
+            <TextView
+                android:id="@+id/textview37"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button52"
+                android:layout_toRightOf="@+id/button53"
+                android:gravity="center"
+                android:text="@string/TVJHT3"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button54"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button53"
+                android:onClick="onClickJHT4"
+                android:text="@string/JHT4" />
+            
+            <!-- This warning can be ignored because the app is not a multi-threaded. -->
+
+            <TextView
+                android:id="@+id/textview38"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button53"
+                android:layout_toRightOf="@+id/button54"
+                android:gravity="center"
+                android:text="@string/TVJHT4"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button55"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button54"
+                android:onClick="onClickJHT5"
+                android:text="@string/JHT5" />
+
+            <TextView
+                android:id="@+id/textview39"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button54"
+                android:layout_toRightOf="@+id/button55"
+                android:gravity="center"
+                android:text="@string/TVJHT5"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button56"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button55"
+                android:onClick="onClickJHT6"
+                android:text="@string/JHT6" />
+
+            <TextView
+                android:id="@+id/textview40"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button55"
+                android:layout_toRightOf="@+id/button56"
+                android:gravity="center"
+                android:text="@string/TVJHT6"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button57"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button56"
+                android:onClick="onClickJHT7"
+                android:text="@string/JHT7" />
+
+            <TextView
+                android:id="@+id/textview41"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button56"
+                android:layout_toRightOf="@+id/button57"
+                android:gravity="center"
+                android:text="@string/TVJHT7"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button58"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button57"
+                android:onClick="onClickJHT8"
+                android:text="@string/JHT8" />
+
+            <TextView
+                android:id="@+id/textview42"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button57"
+                android:layout_toRightOf="@+id/button58"
+                android:gravity="center"
+                android:text="@string/TVJHT8"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button59"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button58"
+                android:onClick="onClickJHT9"
+                android:text="@string/JHT9" />
+
+            <TextView
+                android:id="@+id/textview43"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button58"
+                android:layout_toRightOf="@+id/button59"
+                android:gravity="center"
+                android:text="@string/TVJHT9"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button60"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button59"
+                android:onClick="onClickJHT10"
+                android:text="@string/JHT10" />
+
+            <TextView
+                android:id="@+id/textview44"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button59"
+                android:layout_toRightOf="@+id/button60"
+                android:gravity="center"
+                android:text="@string/TVJHT10"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button61"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button60"
+                android:onClick="onClickLGH"
+                android:text="@string/LGH" />
+
+            <TextView
+                android:id="@+id/textview45"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button60"
+                android:layout_toRightOf="@+id/button61"
+                android:gravity="center"
+                android:text="@string/TVLGH"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button62"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button61"
+                android:onClick="onClickMAH"
+                android:text="@string/MAH" />
+
+            <TextView
+                android:id="@+id/textview46"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button61"
+                android:layout_toRightOf="@+id/button62"
+                android:gravity="center"
+                android:text="@string/TVMAH"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button63"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button62"
+                android:onClick="onClickMCL"
+                android:text="@string/MCL" />
+
+            <TextView
+                android:id="@+id/textview47"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button62"
+                android:layout_toRightOf="@+id/button63"
+                android:gravity="center"
+                android:text="@string/TVMCL"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button64"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button63"
+                android:onClick="onClickMLLL"
+                android:text="@string/MLLL" />
+
+            <TextView
+                android:id="@+id/textview48"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button63"
+                android:layout_toRightOf="@+id/button64"
+                android:gravity="center"
+                android:text="@string/TVMLLL"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button65"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button64"
+                android:onClick="onClickMPL"
+                android:text="@string/MPL" />
+
+            <TextView
+                android:id="@+id/textview49"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button64"
+                android:layout_toRightOf="@+id/button65"
+                android:gravity="center"
+                android:text="@string/TVMPL"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button66"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button65"
+                android:onClick="onClickMS1"
+                android:text="@string/MS1" />
+
+            <TextView
+                android:id="@+id/textview50"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button65"
+                android:layout_toRightOf="@+id/button66"
+                android:gravity="center"
+                android:text="@string/TVMS1"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button67"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button66"
+                android:onClick="onClickMS2"
+                android:text="@string/MS2" />
+
+            <TextView
+                android:id="@+id/textview51"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button66"
+                android:layout_toRightOf="@+id/button67"
+                android:gravity="center"
+                android:text="@string/TVMS2"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button68"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button67"
+                android:onClick="onClickMTL"
+                android:text="@string/MTL" />
+
+            <TextView
+                android:id="@+id/textview52"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button67"
+                android:layout_toRightOf="@+id/button68"
+                android:gravity="center"
+                android:text="@string/TVMTL"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button69"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button68"
+                android:onClick="onClickNMR"
+                android:text="@string/NMR" />
+
+            <TextView
+                android:id="@+id/textview53"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button68"
+                android:layout_toRightOf="@+id/button69"
+                android:gravity="center"
+                android:text="@string/TVNMR"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button70"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button69"
+                android:onClick="onClickOCR"
+                android:text="@string/OCR" />
+
+            <TextView
+                android:id="@+id/textview54"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button69"
+                android:layout_toRightOf="@+id/button70"
+                android:gravity="center"
+                android:text="@string/TVOCR"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button71"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button70"
+                android:onClick="onClickPCT"
+                android:text="@string/PCT" />
+
+            <TextView
+                android:id="@+id/textview55"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button70"
+                android:layout_toRightOf="@+id/button71"
+                android:gravity="center"
+                android:text="@string/TVPCT"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button72"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button71"
+                android:onClick="onClickPH"
+                android:text="@string/PH" />
+
+            <TextView
+                android:id="@+id/textview56"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button71"
+                android:layout_toRightOf="@+id/button72"
+                android:gravity="center"
+                android:text="@string/TVPH"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button73"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button72"
+                android:onClick="onClickRH221"
+                android:text="@string/RH221" />
+
+            <TextView
+                android:id="@+id/textview57"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button72"
+                android:layout_toRightOf="@+id/button73"
+                android:gravity="center"
+                android:text="@string/TVRH221"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button74"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button73"
+                android:onClick="onClickRVH"
+                android:text="@string/RVH" />
+
+            <TextView
+                android:id="@+id/textview58"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button73"
+                android:layout_toRightOf="@+id/button74"
+                android:gravity="center"
+                android:text="@string/TVRVH"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button75"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button74"
+                android:onClick="onClickRYE"
+                android:text="@string/RYE" />
+
+            <TextView
+                android:id="@+id/textview59"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button74"
+                android:layout_toRightOf="@+id/button75"
+                android:gravity="center"
+                android:text="@string/TVRYE"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button76"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button75"
+                android:onClick="onClickSLT"
+                android:text="@string/SLT" />
+
+            <TextView
+                android:id="@+id/textview60"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button75"
+                android:layout_toRightOf="@+id/button76"
+                android:gravity="center"
+                android:text="@string/TVSLT"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button77"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button76"
+                android:onClick="onClickTH1"
+                android:text="@string/TH1" />
+
+            <TextView
+                android:id="@+id/textview61"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button76"
+                android:layout_toRightOf="@+id/button77"
+                android:gravity="center"
+                android:text="@string/TVTH1"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/button78"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button77"
+                android:onClick="onClickTH2"
+                android:text="@string/TH2" />
+
+            <TextView
+                android:id="@+id/textview62"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button77"
+                android:layout_toRightOf="@+id/button78"
+                android:gravity="center"
+                android:text="@string/TVTH2"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            
+            <Button
+                android:id="@+id/button79"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button78"
+                android:onClick="onClickATC"
+                android:text="@string/ATC" />
+            
+            <TextView
+                android:id="@+id/textview63"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button78"
+                android:layout_toRightOf="@+id/button79"
+                android:gravity="center"
+                android:text="@string/TVATC"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+            
+            <Button
+                android:id="@+id/button80"
+                style="@style/ButtonsLecLoc"
+                android:layout_below="@+id/button79"
+                android:onClick="onClickIONTH"
+                android:text="@string/IONTH" />
+            
+            <TextView
+                android:id="@+id/textview64"
+                android:layout_width="fill_parent"
+                android:layout_height="60dip"
+                android:layout_below="@+id/button79"
+                android:layout_toRightOf="@+id/button80"
+                android:gravity="center"
+                android:text="@string/TVIONTH"
+                android:textColor="#000000"
+                android:textSize="20sp" />
+        </RelativeLayout>
+    </ScrollView>
+
+</RelativeLayout>

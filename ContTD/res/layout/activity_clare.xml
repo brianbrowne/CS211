@@ -1,0 +1,238 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#5089D6"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Clare" >
+
+     <RelativeLayout
+            android:id="@+id/RelLayCavMon"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+    
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="Contact Your TD!" />
+    <TextView
+        android:id="@+id/filler"
+        android:layout_width="wrap_content"
+        android:layout_height="20dip"
+        android:layout_below="@+id/textview1" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewJoeCar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filler"
+        android:textSize="20sp"
+        android:text="Joe Carey" />
+    
+    <EditText
+        android:id="@+id/SubjectJoeCar"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewJoeCar"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45sp"
+        android:layout_toRightOf="@+id/SubjectJoeCar"
+        android:src="@drawable/joecarey" />
+    
+    <EditText
+        android:id="@+id/messageJoeCar"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectJoeCar"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer229"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageJoeCar" />
+    
+    <Button
+        android:id="@+id/sendEmailJoeCar"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer229"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer230"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailJoeCar" />
+    
+    <Button
+        android:id="@+id/JoeCarwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer230"
+        android:onClick="onClickSendEmailJoeCar"
+        android:text="Open Joe Carey's website" />
+    
+    
+    
+    
+    
+    
+    
+    
+        <TextView
+        android:id="@+id/textviewPatBre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380dip"
+        android:textSize="20sp"
+        android:text="Pat Breen" />
+    
+    <EditText
+        android:id="@+id/SubjectPatBre"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewPatBre"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewPatBre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="390dip"
+        android:layout_toRightOf="@+id/SubjectPatBre"
+        android:src="@drawable/patbreen" />
+    
+    <EditText
+        android:id="@+id/messagePatBre"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectPatBre"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer231"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messagePatBre" />
+    
+    <Button
+        android:id="@+id/sendEmailPatBre"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer231"
+        android:onClick="onClickSendEmailPatBre"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer232"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailPatBre" />
+    
+    <Button
+        android:id="@+id/PatBrewebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer232"
+        android:onClick="onClickSendEmailPatBre"
+        android:text="Open Pat Breen's website" />
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewTimDoo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="780dip"
+        android:textSize="20sp"
+        android:text="Timmy Dooley" />
+    
+    <EditText
+        android:id="@+id/SubjectTimDoo"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewTimDoo"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewTimDoo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="790dip"
+        android:layout_toRightOf="@+id/SubjectTimDoo"
+        android:src="@drawable/timmydooley" />
+    
+    <EditText
+        android:id="@+id/messageTimDoo"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectTimDoo"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer233"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageTimDoo" />
+    
+    <Button
+        android:id="@+id/sendEmailTimDoo"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer233"
+        android:onClick="onClickSendEmailTimDoo"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer234"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailTimDoo" />
+    
+    <Button
+        android:id="@+id/TimDoowebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer234"
+        android:onClick="onClickSendEmail1"
+        android:text="Open Timmy Dooley's website" />
+
+    
+    
+    </RelativeLayout>
+</ScrollView>

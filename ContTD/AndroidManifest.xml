@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jbbb.bb.conttd"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="18" />
+    
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="jbbb.bb.conttd.Welcome"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.CarlKil"
+            android:label="@string/title_activity_carl_kil"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.CavMon"
+            android:label="@string/title_activity_cav_mon"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.Clare"
+            android:label="@string/title_activity_clare"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.CoEa"
+            android:label="@string/title_activity_co_ea"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.CNC"
+            android:label="@string/title_activity_cnc"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.CNW"
+            android:label="@string/title_activity_cnw"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.CSC"
+            android:label="@string/title_activity_csc"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.CSW"
+            android:label="@string/title_activity_csw"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DNE"
+            android:label="@string/title_activity_dne"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DSW"
+            android:label="@string/title_activity_dsw"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DubCen"
+            android:label="@string/title_activity_dub_cen"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DMW"
+            android:label="@string/title_activity_dww"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DubNor"
+            android:label="@string/title_activity_dub_nor"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DNC"
+            android:label="@string/title_activity_dnc"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DNW"
+            android:label="@string/title_activity_dnw"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DubNE"
+            android:label="@string/title_activity_dub_ne"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DubSou"
+            android:label="@string/title_activity_dub_sou"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DSC"
+            android:label="@string/title_activity_dsc"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DSE"
+            android:label="@string/title_activity_dse"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DubSW"
+            android:label="@string/title_activity_dub_sw"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DubWes"
+            android:label="@string/title_activity_dub_wes"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.DunLao"
+            android:label="@string/title_activity_dun_lao"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.GalE"
+            android:label="@string/title_activity_gal_e"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.GalW"
+            android:label="@string/title_activity_gal_w"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.KerryNor"
+            android:label="@string/title_activity_kerry_nor"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.KerrySou"
+            android:label="@string/title_activity_kerry_sou" >
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.KilNor"
+            android:label="@string/title_activity_kil_nor"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.KilSou"
+            android:label="@string/title_activity_kil_sou"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.LaoOff"
+            android:label="@string/title_activity_lao_off"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.LimE"
+            android:label="@string/title_activity_lim_e"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.LimW"
+            android:label="@string/title_activity_lim_w"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.LongWest"
+            android:label="@string/title_activity_long_west"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.Louth"
+            android:label="@string/title_activity_louth"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.Mayo"
+            android:label="@string/title_activity_mayo"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.MeE"
+            android:label="@string/title_activity_me_e"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.MeW"
+            android:label="@string/title_activity_me_w"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.RosSL"
+            android:label="@string/title_activity_ros_sl"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.SlNL"
+            android:label="@string/title_activity_sl_nl"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.TippN"
+            android:label="@string/title_activity_tipp_n"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.TippS"
+            android:label="@string/title_activity_tipp_s"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.Watf"
+            android:label="@string/title_activity_watf"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.Wexf"
+            android:label="@string/title_activity_wexf"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+        <activity
+            android:name="jbbb.bb.conttd.Wick"
+            android:label="@string/title_activity_wick"
+            android:parentActivityName="jbbb.bb.conttd.Welcome" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="jbbb.bb.conttd.Welcome" />
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,288 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#5089D6"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".LimW" >
+
+    <RelativeLayout
+            android:id="@+id/RelLayLimCity"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+    
+    
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="Contact Your TD!" />
+    <TextView
+        android:id="@+id/filler"
+        android:layout_width="wrap_content"
+        android:layout_height="20dip"
+        android:layout_below="@+id/textview1" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewJanSul"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filler"
+        android:textSize="20sp"
+        android:text="Jan O Sullivan" />
+    
+    <EditText
+        android:id="@+id/SubjectJanSul"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewJanSul"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45sp"
+        android:layout_toRightOf="@+id/SubjectJanSul"
+        android:src="@drawable/janosullivan" />
+    
+    <EditText
+        android:id="@+id/messageJanSul"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectJanSul"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer116"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageJanSul" />
+    
+    <Button
+        android:id="@+id/sendEmailJanSul"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer116"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <!--   <Button
+        android:id="@+id/BarCowwebsite"
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sendEmailBarCow"
+        android:onClick="onClickSendEmailBarCow"
+        android:text="Open Barry Cowen's website" />-->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewKieDon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380sp"
+        android:textSize="20sp"
+        android:text="Kieran O Donnell" />
+    
+    <EditText
+        android:id="@+id/SubjectKieDon"
+       android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewKieDon"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewKieDon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="390sp"
+        android:layout_toRightOf="@+id/SubjectKieDon"
+        android:src="@drawable/kieranodonnell" />
+    
+    <EditText
+        android:id="@+id/messageKieDon"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectKieDon"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer117"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageKieDon" />
+    
+    <Button
+        android:id="@+id/sendEmailKieDon"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer117"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <!--   <Button
+        android:id="@+id/ChaFlawebsite"
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sendEmailChaFla"
+        android:onClick="onClickSendEmailChaFla"
+        android:text="Open Charles Flanagan's website" />-->
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewMicNoo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="680sp"
+        android:textSize="20sp"
+        android:text="Michael Noonan" />
+    
+    <EditText
+        android:id="@+id/SubjectMicNoo"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewMicNoo"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewMicNoo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="710sp"
+        android:layout_toRightOf="@+id/SubjectMicNoo"
+        android:src="@drawable/michaelnoonan" />
+    
+    <EditText
+        android:id="@+id/messageMicNoo"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectMicNoo"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer118"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageMicNoo" />
+    
+    <Button
+        android:id="@+id/sendEmailMicNoo"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer118"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <!--   <Button
+        android:id="@+id/MarKenwebsite"
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sendEmailMarKen"
+        android:onClick="onClickSendEmailMarKen"
+        android:text="Open Marcella Corcoran  Kennedy's website" />-->
+    
+    
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewWilDea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="980sp"
+        android:textSize="20sp"
+        android:text="Willie O Dea" />
+    
+    <EditText
+        android:id="@+id/SubjectWilDea"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewWilDea"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewWilDea"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="990sp"
+        android:layout_toRightOf="@+id/SubjectWilDea"
+        android:src="@drawable/willieodea" />
+    
+    <EditText
+        android:id="@+id/messageWilDea"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectWilDea"
+        android:hint="Please type your message"
+        android:ems="10" />
+    <TextView
+        android:id="@+id/spacer119"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageWilDea" />
+    
+    <Button
+        android:id="@+id/sendEmailWilDea"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer119"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <!--   <Button
+        android:id="@+id/SeaFlewebsite"
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sendEmailSeaFle"
+        android:onClick="onClickSendEmailSeaFle"
+        android:text="Open Sean Fleming's website" />-->
+    
+    
+    
+    
+    </RelativeLayout>
+    </ScrollView>

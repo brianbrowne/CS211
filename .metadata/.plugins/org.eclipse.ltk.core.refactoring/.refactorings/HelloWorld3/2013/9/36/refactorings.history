@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;HelloWorld3/bin/HelloWordl2.apk&apos; to &apos;HelloWorld3.apk&apos;" description="Rename resource &apos;HelloWordl2.apk&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="bin/HelloWordl2.apk" name="HelloWorld3.apk" stamp="1378047353639" updateReferences="true"/>&#x0A;<refactoring comment="Rename resource &apos;HelloWorld3/bin/HelloWorld3.apk&apos; to &apos;HelloWorld3.1.apk&apos;" description="Rename resource &apos;HelloWorld3.apk&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="bin/HelloWorld3.apk" name="HelloWorld3.1.apk" stamp="1378048158166" updateReferences="true"/>
+</session>

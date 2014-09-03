@@ -1,0 +1,165 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#5089D6"
+    tools:context=".DSE" >
+
+   <RelativeLayout
+            android:id="@+id/RelLayDSE"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+    
+    
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="Contact Your TD!" />
+    <TextView
+        android:id="@+id/filler"
+        android:layout_width="wrap_content"
+        android:layout_height="20dip"
+        android:layout_below="@+id/textview1" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewKevHum"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filler"
+        android:textSize="20sp"
+        android:text="Kevin Humphreys" />
+    
+    <EditText
+        android:id="@+id/SubjectKevHum"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewKevHum"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45sp"
+        android:layout_toRightOf="@+id/SubjectKevHum"
+        android:src="@drawable/kevinhumphreys" />
+    
+    <EditText
+        android:id="@+id/messageKevHum"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectKevHum"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer179"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageKevHum" />
+    
+    <Button
+        android:id="@+id/sendEmailKevHum"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer179"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer180"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailKevHum" />
+    
+    <Button
+        android:id="@+id/KevHumwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer180"
+        android:onClick="onClickSendEmailKevHum"
+        android:text="Open Kevin Humphreys's website" />
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewLucCre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380dip"
+        android:textSize="20sp"
+        android:text="Lucinda Creighton" />
+    
+    <EditText
+        android:id="@+id/SubjectLucCre"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewLucCre"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewLucCre"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="390dip"
+        android:layout_toRightOf="@+id/SubjectLucCre"
+        android:src="@drawable/lucindacreighton" />
+    
+    <EditText
+        android:id="@+id/messageLucCre"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectLucCre"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer181"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageLucCre" />
+    
+    <Button
+        android:id="@+id/sendEmailLucCre"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer181"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer182"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailLucCre" />
+    
+    <Button
+        android:id="@+id/LucCrewebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer182"
+        android:text="Open Lucinda Creighton's website" />
+
+</RelativeLayout>
+</ScrollView>

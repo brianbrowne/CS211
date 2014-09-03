@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Historic Ireland</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_Explore_your_area">Explore your area!</string>
+    <string name="button_Add_to_our_database">Add to our database!</string>
+    <string name="title_activity_add_to_database">AddToDatabase</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="LocationsName">Please Enter The Locations Name.</string>
+    <string name="LocationDescription">Please enter a description of the location</string>
+    <string name="button_Send_Email">Send us your new historic site!</string>
+    <string name="AddPhoto">Click to add a Photo</string>
+    <string name="title_activity_pop_up_window">PopUpWindow</string>
+    <string name="button_Take_Photo">Take a photo With your phone.</string>
+    <string name="button_Search_Phone">Search your phone for a photo.</string>
+    <string name="button_Take_Picture">Take Picture</string>
+    <string name="title_activity_explore">Explore</string>
+
+</resources>

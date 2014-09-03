@@ -1,0 +1,251 @@
+what,kind,bundleId,bundleVersion,description,time
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390661768758
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390661772702
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1390661773533
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390661774311
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390661776596
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390661781121
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390661781121
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390661782898
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390661798689
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1390661799286
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390661800388
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390661803428
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390661809959
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390661822200
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1390661822305
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390661828213
+error,log,,,"[main manifest:16, library:4] Trying to merge incompatible /manifest/application/activity[@name=com.example.androidhive.AllProductsActivity] element:\n  <activity\n--    @android:label=""All Products""\n  <activity\n++    @android:label=""@string/title_activity_all_products""\n",1390661882737
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1390661882844
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1390661882858
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1390661882889
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1390661882901
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1390661882938
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390661883657
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1390661883684
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\androidhive\\AndroidManifest.xml: The markup in the document preceding the root element must be well-formed.",1390661887890
+error,log,,,"Malformed manifest",1390661888273
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390661888974
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390661889520
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390661889665
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390661889865
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1390661890107
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390661894528
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1390661902824
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1390661903153
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1390661903395
+error,log,,,"Parser exception for /androidhive/AndroidManifest.xml: The markup in the document preceding the root element must be well-formed.",1390661908821
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1390661909033
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1390661911929
+error,log,,,"Malformed manifest",1390661920665
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390661920672
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\androidhive\\AndroidManifest.xml: Content is not allowed in trailing section.",1390661920807
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1390661921005
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1390661922344
+error,log,,,"Malformed manifest",1390661925860
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390661925868
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\androidhive\\AndroidManifest.xml: The markup in the document following the root element must be well-formed.",1390661926008
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1390661926215
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1390661927382
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390661951426
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390661955752
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1390661960457
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390661964425
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662009585
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1390662009609
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662010815
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662043454
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662056188
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662078395
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1390662078426
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662087164
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662087279
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662090069
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662100806
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662100939
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1390662102607
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662103395
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390662105709
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662109084
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662109084
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662110083
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1390662111869
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662113372
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.manifest.ManifestEditor",1390662113372
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662114627
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662116493
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662126373
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1390662127340
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662128768
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390662131914
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390662144832
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662147701
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662147702
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662148681
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662162062
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1390662163163
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662164506
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662169327
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662182969
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662184671
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662188318
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662205819
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662209741
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662214130
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662227272
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662232168
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662236372
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662245522
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662246594
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390662249291
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662275213
+executed,command,org.eclipse.ui.workbench.texteditor,3.6.1.r361_v20100714-0800,"org.eclipse.ui.edit.text.showInformation",1390662275242
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.copy",1390662279360
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662314878
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390662335283
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1390662343114
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.undo",1390662343758
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390662345985
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662347497
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662381302
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1390662381427
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662382728
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662382934
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662386034
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662397796
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1390662399057
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662399971
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662404491
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662415512
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662416548
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390662418775
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662420308
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662482425
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662482777
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662482778
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662485350
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662519628
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1390662519721
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662524458
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662540703
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662541179
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662541233
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662545664
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662557275
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1390662558004
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662558898
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662567824
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662580493
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662581550
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662587325
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662598743
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662599763
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662604147
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662610729
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662611734
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390662614692
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1390662643099
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662645604
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662645694
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662654157
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662666715
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662671588
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662672417
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662681677
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662691963
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662693723
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390662700931
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662703310
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662715023
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662767447
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1390662767494
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662772645
+error,log,,,"[main manifest:25, library:4] Trying to merge incompatible /manifest/application/activity[@name=com.example.androidhive.EditProductActivity] element:\n  <activity\n--    @android:label=""Edit Product""\n  <activity\n++    @android:label=""@string/title_activity_edit_product""\n",1390662810337
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1390662810433
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1390662810444
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1390662810465
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1390662810477
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1390662810594
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662810996
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1390662811027
+error,log,,,"Parser exception for C:\\Users\\Brian\\CS211\\androidhive\\AndroidManifest.xml: The markup in the document preceding the root element must be well-formed.",1390662811140
+error,log,,,"Malformed manifest",1390662811697
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662811858
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662812061
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662812179
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662812374
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1390662813223
+error,log,,,"Parser exception for /androidhive/AndroidManifest.xml: The markup in the document preceding the root element must be well-formed.",1390662813807
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662819543
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662826217
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662827482
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662836811
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1390662837800
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662839009
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662843422
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662854314
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662855453
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390662860148
+error,log,,,"Parser exception for /androidhive/AndroidManifest.xml: The markup in the document preceding the root element must be well-formed.",1390662860211
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1390662860482
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662862287
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390662878917
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1390662878918
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1390662881852
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662884017
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662896956
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662898072
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662903309
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662916114
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662920639
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662923414
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662929079
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662931415
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662940370
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662941551
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662946386
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662958330
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662959330
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662964191
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662976384
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662977527
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662982574
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390662996965
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390662997966
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663001071
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663012531
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390663020200
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1390663033342
+executed,command,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.edit.text.java.indent",1390663035441
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663074940
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663075084
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.delete",1390663111698
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390663113500
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663116791
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663146647
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1390663146718
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663149945
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663162924
+error,log,,,"Parser exception for /androidhive/AndroidManifest.xml: The markup in the document preceding the root element must be well-formed.",1390663163047
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390663163518
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390663163579
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1390663163929
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663168940
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663174935
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390663175023
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.selectAll",1390663175814
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390663176952
+error,log,,,"Parser exception for /androidhive/AndroidManifest.xml: The markup in the document preceding the root element must be well-formed.",1390663177070
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1390663177255
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390663178942
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663185088
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663199018
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390663200052
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663203586
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1390663211957
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.edit.paste",1390663213500
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390663217286
+error,log,,,"Parser exception for /androidhive/AndroidManifest.xml: The markup in the document preceding the root element must be well-formed.",1390663217470
+activated,view,org.eclipse.ui.console,3.5.0.v20100526,"org.eclipse.ui.console.ConsoleView",1390663217745
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1390663219298
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.file.save",1390663230322

@@ -1,0 +1,276 @@
+what,kind,bundleId,bundleVersion,description,time
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230034704
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230034823
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230034967
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230035027
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230036111
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230068171
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394230068178
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230068194
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394230068199
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230068220
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230068846
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394230068880
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230069505
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230069620
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230069726
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230069790
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230071133
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230084866
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394230084875
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230084894
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394230084900
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230084921
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230085379
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394230085448
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230086088
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230086208
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230086339
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230086391
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230090467
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230106867
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394230106874
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230106893
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394230106899
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230106915
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230107264
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394230107307
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230107791
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230107898
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230108024
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230108063
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230111265
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230127573
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394230127579
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230127596
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394230127602
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230127620
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230130266
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394230130288
+error,log,,,"Current file is not a match for the given config.",1394230130423
+error,log,,,"Current file is not a match for the given config.",1394230130432
+error,log,,,"Current file is not a match for the given config.",1394230130442
+error,log,,,"Current file is not a match for the given config.",1394230130452
+error,log,,,"Current file is not a match for the given config.",1394230130459
+error,log,,,"Current file is not a match for the given config.",1394230130466
+error,log,,,"Current file is not a match for the given config.",1394230130472
+error,log,,,"Current file is not a match for the given config.",1394230130479
+error,log,,,"Current file is not a match for the given config.",1394230130486
+error,log,,,"Current file is not a match for the given config.",1394230130493
+error,log,,,"Current file is not a match for the given config.",1394230130499
+error,log,,,"Current file is not a match for the given config.",1394230130506
+error,log,,,"Current file is not a match for the given config.",1394230130512
+error,log,,,"Current file is not a match for the given config.",1394230130519
+error,log,,,"Current file is not a match for the given config.",1394230130526
+error,log,,,"Current file is not a match for the given config.",1394230130533
+error,log,,,"Current file is not a match for the given config.",1394230130540
+error,log,,,"Current file is not a match for the given config.",1394230130546
+error,log,,,"Current file is not a match for the given config.",1394230130556
+error,log,,,"Current file is not a match for the given config.",1394230130565
+error,log,,,"Current file is not a match for the given config.",1394230130572
+error,log,,,"Current file is not a match for the given config.",1394230130579
+error,log,,,"Current file is not a match for the given config.",1394230130586
+error,log,,,"Current file is not a match for the given config.",1394230130592
+error,log,,,"Current file is not a match for the given config.",1394230130599
+error,log,,,"Current file is not a match for the given config.",1394230130606
+error,log,,,"Current file is not a match for the given config.",1394230130613
+error,log,,,"Current file is not a match for the given config.",1394230130622
+error,log,,,"Current file is not a match for the given config.",1394230130630
+error,log,,,"Current file is not a match for the given config.",1394230130638
+error,log,,,"Current file is not a match for the given config.",1394230130645
+error,log,,,"Current file is not a match for the given config.",1394230130652
+error,log,,,"Current file is not a match for the given config.",1394230130660
+error,log,,,"Current file is not a match for the given config.",1394230130668
+error,log,,,"Current file is not a match for the given config.",1394230130675
+error,log,,,"Current file is not a match for the given config.",1394230130683
+error,log,,,"Current file is not a match for the given config.",1394230130691
+error,log,,,"Current file is not a match for the given config.",1394230130700
+error,log,,,"Current file is not a match for the given config.",1394230130706
+error,log,,,"Current file is not a match for the given config.",1394230130715
+error,log,,,"Current file is not a match for the given config.",1394230130722
+error,log,,,"Current file is not a match for the given config.",1394230130729
+error,log,,,"Current file is not a match for the given config.",1394230130736
+error,log,,,"Current file is not a match for the given config.",1394230130746
+error,log,,,"Current file is not a match for the given config.",1394230130756
+error,log,,,"Current file is not a match for the given config.",1394230130765
+error,log,,,"Current file is not a match for the given config.",1394230130772
+error,log,,,"Current file is not a match for the given config.",1394230130779
+error,log,,,"Current file is not a match for the given config.",1394230130786
+error,log,,,"Current file is not a match for the given config.",1394230130792
+error,log,,,"Current file is not a match for the given config.",1394230130799
+error,log,,,"Current file is not a match for the given config.",1394230130806
+error,log,,,"Current file is not a match for the given config.",1394230130813
+error,log,,,"Current file is not a match for the given config.",1394230130823
+error,log,,,"Current file is not a match for the given config.",1394230130831
+error,log,,,"Current file is not a match for the given config.",1394230130838
+error,log,,,"Current file is not a match for the given config.",1394230130845
+error,log,,,"Current file is not a match for the given config.",1394230130852
+error,log,,,"Current file is not a match for the given config.",1394230130859
+error,log,,,"Current file is not a match for the given config.",1394230130866
+error,log,,,"Current file is not a match for the given config.",1394230130876
+error,log,,,"Current file is not a match for the given config.",1394230130883
+error,log,,,"Current file is not a match for the given config.",1394230130892
+error,log,,,"Current file is not a match for the given config.",1394230130901
+error,log,,,"Current file is not a match for the given config.",1394230130910
+error,log,,,"Current file is not a match for the given config.",1394230130918
+error,log,,,"Current file is not a match for the given config.",1394230130925
+error,log,,,"Current file is not a match for the given config.",1394230130932
+error,log,,,"Current file is not a match for the given config.",1394230130940
+error,log,,,"Current file is not a match for the given config.",1394230130947
+error,log,,,"Current file is not a match for the given config.",1394230130953
+error,log,,,"Current file is not a match for the given config.",1394230130960
+error,log,,,"Current file is not a match for the given config.",1394230130968
+error,log,,,"Current file is not a match for the given config.",1394230130976
+error,log,,,"Current file is not a match for the given config.",1394230130983
+error,log,,,"Current file is not a match for the given config.",1394230130990
+error,log,,,"Current file is not a match for the given config.",1394230130996
+error,log,,,"Current file is not a match for the given config.",1394230131003
+error,log,,,"Current file is not a match for the given config.",1394230131010
+error,log,,,"Current file is not a match for the given config.",1394230131017
+error,log,,,"Current file is not a match for the given config.",1394230131026
+error,log,,,"Current file is not a match for the given config.",1394230131035
+error,log,,,"Current file is not a match for the given config.",1394230131043
+error,log,,,"Current file is not a match for the given config.",1394230131050
+error,log,,,"Current file is not a match for the given config.",1394230131056
+error,log,,,"Current file is not a match for the given config.",1394230131063
+error,log,,,"Current file is not a match for the given config.",1394230131070
+error,log,,,"Current file is not a match for the given config.",1394230131076
+error,log,,,"Current file is not a match for the given config.",1394230131083
+error,log,,,"Current file is not a match for the given config.",1394230131089
+error,log,,,"Current file is not a match for the given config.",1394230131096
+error,log,,,"Current file is not a match for the given config.",1394230131102
+error,log,,,"Current file is not a match for the given config.",1394230131109
+error,log,,,"Current file is not a match for the given config.",1394230131117
+error,log,,,"Current file is not a match for the given config.",1394230131124
+error,log,,,"Current file is not a match for the given config.",1394230131130
+error,log,,,"Current file is not a match for the given config.",1394230131137
+error,log,,,"Current file is not a match for the given config.",1394230131144
+error,log,,,"Current file is not a match for the given config.",1394230131151
+error,log,,,"Current file is not a match for the given config.",1394230131162
+error,log,,,"Current file is not a match for the given config.",1394230131170
+error,log,,,"Current file is not a match for the given config.",1394230131180
+error,log,,,"Current file is not a match for the given config.",1394230131194
+error,log,,,"Current file is not a match for the given config.",1394230131211
+error,log,,,"Current file is not a match for the given config.",1394230131230
+error,log,,,"Current file is not a match for the given config.",1394230131242
+error,log,,,"Current file is not a match for the given config.",1394230131251
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230140348
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230140438
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230140545
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230140592
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230146436
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230147688
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230148708
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230149754
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230150675
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230151451
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230152387
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230153357
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230154329
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230155254
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230156029
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230156964
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230157530
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230158023
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230159005
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230159591
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230160476
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230161129
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230162112
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230163503
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230164659
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230165658
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230166273
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230166883
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230168074
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230169224
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230170431
+closed,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230170431
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230171635
+closed,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230171636
+activated,view,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.PackageExplorer",1394230172828
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230176289
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230191543
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394230191550
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230191566
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394230191577
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230191597
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230191936
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394230191991
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230192803
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230192893
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230193069
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230193168
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230196157
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230210694
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394230210700
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230210717
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394230210724
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230210742
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230211082
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394230211131
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230213089
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230213183
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230213350
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230213414
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230214732
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230229052
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394230229060
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230229081
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394230229087
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230229108
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230229457
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394230229507
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230230113
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230230226
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230230370
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230230438
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230232445
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230252884
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394230252891
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230252911
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394230252918
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230252936
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230253304
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394230253356
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230253910
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230254026
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230254159
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230254213
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230257814
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230281057
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394230281063
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230281080
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394230281086
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230281105
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230281539
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394230281587
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230282062
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230282160
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230282258
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230282319
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230284475
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230299980
+error,log,,,"Warning: Ignoring name conflict in resource file for name hello_world",1394230299987
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230300030
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_vertical_margin",1394230300037
+error,log,,,"Warning: Ignoring name conflict in resource file for name activity_horizontal_margin",1394230300055
+activated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230300362
+executed,command,org.eclipse.ui,3.6.2.M20110203-1100,"org.eclipse.ui.newWizard",1394230300406
+error,log,,,"Current file is not a match for the given config.",1394230300594
+error,log,,,"Current file is not a match for the given config.",1394230300600
+error,log,,,"Current file is not a match for the given config.",1394230300605
+error,log,,,"Current file is not a match for the given config.",1394230300610
+error,log,,,"Current file is not a match for the given config.",1394230300616
+error,log,,,"Current file is not a match for the given config.",1394230300623
+error,log,,,"Current file is not a match for the given config.",1394230300630
+error,log,,,"Current file is not a match for the given config.",1394230300636
+error,log,,,"Current file is not a match for the given config.",1394230300643
+error,log,,,"Current file is not a match for the given config.",1394230300649
+error,log,,,"Current file is not a match for the given config.",1394230300654
+opened,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230300973
+activated,editor,com.android.ide.eclipse.adt,22.3.0.v201310242005-887826,"com.android.ide.eclipse.editors.CommonXmlEditor",1394230301075
+opened,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230301204
+activated,editor,org.eclipse.jdt.ui,3.6.2.r362_v20110203,"org.eclipse.jdt.ui.CompilationUnitEditor",1394230301259
+deactivated,workbench,org.eclipse.ui.workbench,3.6.2.M20110210-1200,"",1394230304028
+error,log,,,"Warning: Ignoring name conflict in resource file for name action_settings",1394230318341

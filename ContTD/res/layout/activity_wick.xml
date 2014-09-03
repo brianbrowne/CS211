@@ -1,0 +1,311 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:background="#5089D6"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".Wick" >
+
+   <RelativeLayout
+            android:id="@+id/RelLayMayo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+    
+    
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="Contact Your TD!" />
+    <TextView
+        android:id="@+id/filler"
+        android:layout_width="wrap_content"
+        android:layout_height="20dip"
+        android:layout_below="@+id/textview1" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewAndDoy"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filler"
+        android:textSize="20sp"
+        android:text="Andrew Doyle" />
+    
+    <EditText
+        android:id="@+id/SubjectAndDoy"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewAndDoy"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45sp"
+        android:layout_toRightOf="@+id/SubjectAndDoy"
+        android:src="@drawable/andrewdoyle" />
+    
+    <EditText
+        android:id="@+id/messageAndDoy"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectAndDoy"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer258"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageAndDoy" />
+    
+    <Button
+        android:id="@+id/sendEmailAndDoy"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer258"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer259"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailAndDoy" />
+    
+         <Button
+        android:id="@+id/AndDoywebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer259"
+        android:onClick="onClickSendEmailAndDoy"
+        android:text="Open Andrew Doyle's website" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewAnnFer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380sp"
+        android:textSize="20sp"
+        android:text="Anne Ferris" />
+    
+    <EditText
+        android:id="@+id/SubjectAnnFer"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewAnnFer"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewAnnFer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="390sp"
+        android:layout_toRightOf="@+id/SubjectAnnFer"
+        android:src="@drawable/anneferris" />
+    
+    <EditText
+        android:id="@+id/messageAnnFer"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectAnnFer"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer260"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageAnnFer" />
+    
+    <Button
+        android:id="@+id/sendEmailAnnFer"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer260"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer261"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailAnnFer" />
+    
+       <Button
+        android:id="@+id/AnnFerwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer261"
+        android:onClick="onClickSendEmailAnnFer"
+        android:text="Open Anne Ferris's website" />
+       
+       
+       
+       
+       
+       
+       
+       
+       <TextView
+        android:id="@+id/textviewSimHar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="680sp"
+        android:textSize="20sp"
+        android:text="Simon Harris" />
+    
+    <EditText
+        android:id="@+id/SubjectSimHar"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewSimHar"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewSimHar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="690sp"
+        android:layout_toRightOf="@+id/SubjectSimHar"
+        android:src="@drawable/simonharris" />
+    
+    <EditText
+        android:id="@+id/messageSimHar"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectSimHar"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer262"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageSimHar" />
+    
+    <Button
+        android:id="@+id/sendEmailSimHar"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer262"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer263"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailSimHar" />
+    
+       <Button
+        android:id="@+id/SimHarwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer263"
+        android:onClick="onClickSendEmailSimHar"
+        android:text="Open Simon Harris' website" />
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       <TextView
+        android:id="@+id/textviewSteDon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="980sp"
+        android:textSize="20sp"
+        android:text="Stephen Donnelly" />
+    
+    <EditText
+        android:id="@+id/SubjectSteDon"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewSteDon"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewSteDon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="990sp"
+        android:layout_toRightOf="@+id/SubjectSteDon"
+        android:src="@drawable/stephendonnelly" />
+    
+    <EditText
+        android:id="@+id/messageSteDon"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectSteDon"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer264"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageSteDon" />
+    
+    <Button
+        android:id="@+id/sendEmailSteDon"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer264"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer265"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailSteDon" />
+    
+       <Button
+        android:id="@+id/SteDonwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer265"
+        android:onClick="onClickSendEmailSteDon"
+        android:text="Open Stephen Donnelly's website" />
+</RelativeLayout>
+</ScrollView>

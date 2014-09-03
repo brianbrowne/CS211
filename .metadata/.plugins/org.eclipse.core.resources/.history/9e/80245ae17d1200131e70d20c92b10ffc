@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Historic Ireland</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_Explore_your_area">Explore your area!</string>
+    <string name="button_Add_to_our_database">Add to out database!</string>
+    <string name="Welcome_to_Historic_Ireland">Welcome to Historic Ireland</string>
+    <string name="title_activity_database__page">Database_Page</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="The_Locations_Name">Please Enter The Locations Name</string>
+    <string name="Please_Enter_A_Description">Please Enter A Description</string>
+    <string name="Pin_The_Location_to_The_Map">Pin The Location To The Map</string>
+
+</resources>

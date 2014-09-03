@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="jbbb.semester1.theproject"
+    android:versionCode="1"
+    android:versionName="1.1" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="18" />
+    <!-- chooses the minimun SDK which is 11 (Android version 3.0), It has to be set to this because Google Maps V2
+    	wont work on a device with a lower API level -->
+
+    <permission
+        android:name="jbbb.semester1.theproject.MAPS_RECIEVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="jbbb.semester1.theproject.permission.MAPS_RECIEVE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <!--
+     The following two permissions are not required to use
+     Google Maps Android API v2, but are recommended.   -->
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    
+    <!-- Above are the list of permissions that are required for maps to work. These include network access, permission to 
+    	receive the Map tiles and the final two are for GPS Location services. -->
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+    <!-- The Device need to be running OPEN GLES Version 2 or higher -->
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <uses-library android:name="com.google.android.maps" />
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyBOGiLB8wfCpp2QLxzuhEEAVtm2ukzdSyU" />
+        <!-- This is what Google Play services look for on your device to make sure that you have the necessary permissions
+        	to run Google Maps and can load the tiles -->
+        
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+        <!-- The second <meta-data> above is needed because after an update to the Google Play Services Library
+        	the app wasn't able to query the Library because it couldn't reference the version of it properly by 
+        	just connecting to the server which the first does. This calls the library and gets its version. -->
+
+        <activity
+            android:name="jbbb.semester1.theproject.MainActivityTheProject"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="jbbb.semester1.theproject.TheRooms"
+            android:label="@string/title_activity_the_rooms"
+            android:parentActivityName="jbbb.semester1.theproject.MainActivityTheProject" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.theproject.MainActivityTheProject" />
+        </activity>
+        <activity
+            android:name="jbbb.semester1.theproject.LectLocator"
+            android:label="@string/title_activity_lect_locator"
+            android:parentActivityName="jbbb.semester1.theproject.MainActivityTheProject" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.theproject.MainActivityTheProject" />
+        </activity>
+        <activity
+            android:name="jbbb.semester1.theproject.ServerSide"
+            android:label="@string/title_activity_server_side"
+            android:parentActivityName="jbbb.semester1.theproject.MainActivityTheProject" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.theproject.MainActivityTheProject" />
+        </activity>
+        <activity
+            android:name="jbbb.semester1.theproject.ClientSide"
+            android:label="@string/title_activity_client_side"
+            android:parentActivityName="jbbb.semester1.theproject.MainActivityTheProject" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.theproject.MainActivityTheProject" />
+        </activity>
+    </application>
+
+</manifest>

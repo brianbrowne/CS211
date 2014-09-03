@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Contact your TD</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_carl_kil">Carlow Kilkenny</string>
+    <string name="title_activity_cav_mon">Cavan Monaghan</string>
+    <string name="title_activity_clare">Clare</string>
+    <string name="title_activity_co_ea">Cork East</string>
+    <string name="title_activity_cnc">Cork North Central</string>
+    <string name="title_activity_cnw">Cork North West</string>
+    <string name="title_activity_csc">Cork South Central</string>
+    <string name="title_activity_csw">Cork South West</string>
+    <string name="title_activity_dne">Dublin North East</string>
+    <string name="title_activity_dsw">Donegal South</string>
+    <string name="title_activity_dub_cen">Dublin Central</string>
+    <string name="title_activity_dww">Dublin Mid West</string>
+    <string name="title_activity_dub_nor">Dublin North</string>
+    <string name="title_activity_dnc">Dublin North Central</string>
+    <string name="title_activity_dnw">Dublin North West</string>
+    <string name="title_activity_dub_ne">Dublin North East</string>
+    <string name="title_activity_dub_sou">Dublin South</string>
+    <string name="title_activity_dsc">Dublin South Central</string>
+    <string name="title_activity_dse">Dublin South East</string>
+    <string name="title_activity_dub_sw">Dublin South West</string>
+    <string name="title_activity_dub_wes">Dublin West</string>
+    <string name="title_activity_dun_lao">Dun Laoghaire</string>
+    <string name="title_activity_gal_e">Galway East</string>
+    <string name="title_activity_gal_w">Galway West</string>
+    <string name="title_activity_kerry_nor">Kerry North Limerick West</string>
+    <string name="title_activity_kerry_sou">Kerry South</string>
+    <string name="title_activity_kil_nor">Kildare North</string>
+    <string name="title_activity_kil_sou">Kildare South</string>
+    <string name="title_activity_lao_off">Laois Offaly</string>
+    <string name="title_activity_lim_e">Limerick East</string>
+    <string name="title_activity_lim_w">Limerick City</string>
+    <string name="title_activity_long_west">Longford Westmeath</string>
+    <string name="title_activity_louth">Louth</string>
+    <string name="title_activity_mayo">Mayo</string>
+    <string name="title_activity_me_e">Meath East</string>
+    <string name="title_activity_me_w">Meath West</string>
+    <string name="title_activity_ros_sl">Roscommon Leitrim South</string>
+    <string name="title_activity_sl_nl">Sligo Leitrim North</string>
+    <string name="title_activity_tipp_n">Tipperary North</string>
+    <string name="title_activity_tipp_s">Tipperary South</string>
+    <string name="title_activity_watf">Waterford</string>
+    <string name="title_activity_wexf">Wexford</string>
+    <string name="title_activity_wick">Wicklow</string>
+
+</resources>

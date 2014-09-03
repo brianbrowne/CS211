@@ -1,0 +1,56 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:orientation="vertical"
+    android:background="@drawable/finalmainbackground"
+    android:gravity="center_horizontal"
+    tools:context=".MainActivityTheProject" >
+
+    <!-- This is the Home Activity.
+    
+    	It contains four buttons, each having a style attached to it, a unique id and a string which is what appears
+    	as the text on the button.
+    	
+    	It also has a unique background, created by Rory, which contains the logo of the university, it's name, a small android
+    	man and a coloured background. -->
+    	 
+    <Button
+        android:id="@+id/trigger"
+        style="@style/ButtonsMainAc"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_marginBottom="133dp"
+        android:layout_marginLeft="18dp"
+        android:text="@string/FindYourRoom" />
+
+    <Button
+        android:id="@+id/LecLoc"
+        style="@style/ButtonsMainAc"
+        android:layout_alignBaseline="@+id/trigger"
+        android:layout_alignBottom="@+id/trigger"
+        android:layout_marginLeft="58dp"
+        android:layout_toRightOf="@+id/trigger"
+        android:text="@string/FindyourLecHall" />
+
+    <Button
+        android:id="@+id/SerSide"
+        style="@style/BobbyMainButtons"
+        android:layout_alignRight="@+id/trigger"
+        android:layout_below="@+id/LecLoc"
+        android:layout_marginTop="45dp"
+        android:text="@string/SerSide" />
+
+    <Button
+        android:id="@+id/cliSide"
+        style="@style/BobbyMainButtons"
+        android:layout_alignBaseline="@+id/SerSide"
+        android:layout_alignBottom="@+id/SerSide"
+        android:layout_alignRight="@+id/LecLoc"
+        android:text="@string/CliSide" />
+
+</RelativeLayout>

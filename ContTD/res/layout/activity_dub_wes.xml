@@ -1,0 +1,232 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:background="#5089D6"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".DubWes" >
+
+    <RelativeLayout
+            android:id="@+id/RelLayDubWes"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+    
+    
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="Contact Your TD!" />
+    <TextView
+        android:id="@+id/filler"
+        android:layout_width="wrap_content"
+        android:layout_height="20dip"
+        android:layout_below="@+id/textview1" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewJoaBur"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filler"
+        android:textSize="20sp"
+        android:text="Joan Burton" />
+    
+    <EditText
+        android:id="@+id/SubjectJoaBur"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewJoaBur"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45sp"
+        android:layout_toRightOf="@+id/SubjectJoaBur"
+        android:src="@drawable/joanburton" />
+    
+    <EditText
+        android:id="@+id/messageJoaBur"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectJoaBur"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer156"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageJoaBur" />
+    
+    <Button
+        android:id="@+id/sendEmailJoaBur"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer156"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer157"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailJoaBur" />
+    
+    <Button
+        android:id="@+id/JoaBurwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer157"
+        android:onClick="onClickSendEmailJoaBur"
+        android:text="Open Joan Burton's website" />
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewJoeHig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380dip"
+        android:textSize="20sp"
+        android:text="Joe Higgins" />
+    
+    <EditText
+        android:id="@+id/SubjectJoeHig"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewJoeHig"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewJoeHig"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="390dip"
+        android:layout_toRightOf="@+id/SubjectJoeHig"
+        android:src="@drawable/joehiggins" />
+    
+    <EditText
+        android:id="@+id/messageJoeHig"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectJoeHig"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer158"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageJoeHig" />
+    
+    <Button
+        android:id="@+id/sendEmailJoeHig"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer158"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer159"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailJoeHig" />
+    
+    <Button
+        android:id="@+id/JoeHigwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer159"
+        android:text="Open Joe Higgins's website" />
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewRutCop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="680dip"
+        android:textSize="20sp"
+        android:text="Ruth Coppinger" />
+    
+    <EditText
+        android:id="@+id/SubjectRutCop"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewRutCop"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewRutCop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="690dip"
+        android:layout_toRightOf="@+id/SubjectRutCop"
+        android:src="@drawable/ruthcoppinger" />
+    
+    <EditText
+        android:id="@+id/messageRutCop"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectRutCop"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer160"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageRutCop" />
+    
+    <Button
+        android:id="@+id/sendEmailRutCop"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer160"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer161"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailRutCop" />
+    
+    <Button
+        android:id="@+id/RutCopwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer161"
+        android:text="Open Ruth Coppinger's website" />
+
+</RelativeLayout>
+</ScrollView>

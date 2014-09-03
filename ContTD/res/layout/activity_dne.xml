@@ -1,0 +1,159 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:background="#5089D6"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".DNE" >
+
+    <RelativeLayout
+            android:id="@+id/RelLayDNE"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+    
+    
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="Contact Your TD!" />
+    <TextView
+        android:id="@+id/filler"
+        android:layout_width="wrap_content"
+        android:layout_height="20dip"
+        android:layout_below="@+id/textview1" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewTerFla"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filler"
+        android:textSize="20sp"
+        android:text="Terence Flanagan" />
+    
+    <EditText
+        android:id="@+id/SubjectTerFla"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewTerFla"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="35sp"
+        android:layout_toRightOf="@+id/SubjectTerFla"
+        android:src="@drawable/terenceflanagan" />
+    
+    <EditText
+        android:id="@+id/messageTerFla"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectTerFla"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer193"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageTerFla" />
+    
+    <Button
+        android:id="@+id/sendEmailTerFla"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer193"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <!--  <Button
+        android:id="@+id/TerFlawebsite"
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sendEmailTerFla"
+        android:onClick="onClickSendEmailTerFla"
+        android:text="Open Terence Flanagan's website" />-->
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewTomBro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380dip"
+        android:textSize="20sp"
+        android:text="Tommy Broughan" />
+    
+    <EditText
+        android:id="@+id/SubjectTomBro"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewTomBro"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewTomBro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="390dip"
+        android:layout_toRightOf="@+id/SubjectTomBro"
+        android:src="@drawable/tommybroughan" />
+    
+    <EditText
+        android:id="@+id/messageTomBro"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectTomBro"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer194"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageTomBro" />
+    
+    <Button
+        android:id="@+id/sendEmailTomBro"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer194"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer195"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailTomBro" />
+    
+    <Button
+        android:id="@+id/TomBrowebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer195"
+        android:text="Open Tommy Broughan's website" />
+
+</RelativeLayout>
+</ScrollView>

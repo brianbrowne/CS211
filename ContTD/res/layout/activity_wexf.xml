@@ -1,0 +1,234 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:background="#5089D6"
+    tools:context=".Wexf" >
+
+   <RelativeLayout
+            android:id="@+id/RelLayMayo"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+    
+    
+
+    <TextView
+        android:id="@+id/textview1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="32sp"
+        android:text="Contact Your TD!" />
+    <TextView
+        android:id="@+id/filler"
+        android:layout_width="wrap_content"
+        android:layout_height="20dip"
+        android:layout_below="@+id/textview1" />
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewBreHow"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/filler"
+        android:textSize="20sp"
+        android:text="Brendan Howlin" />
+    
+    <EditText
+        android:id="@+id/SubjectBreHow"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewBreHow"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="45sp"
+        android:layout_toRightOf="@+id/SubjectBreHow"
+        android:src="@drawable/brendanhowlin" />
+    
+    <EditText
+        android:id="@+id/messageBreHow"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectBreHow"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer253"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageBreHow" />
+    
+    <Button
+        android:id="@+id/sendEmailBreHow"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer253"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer254"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailBreHow" />
+    
+         <Button
+        android:id="@+id/BreHowwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer254"
+        android:onClick="onClickSendEmailBreHow"
+        android:text="Open Brendan Howlin's website" />
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <TextView
+        android:id="@+id/textviewJohBro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="380sp"
+        android:textSize="20sp"
+        android:text="John Browne" />
+    
+    <EditText
+        android:id="@+id/SubjectJohBro"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewJohBro"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewJohBro"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="390sp"
+        android:layout_toRightOf="@+id/SubjectJohBro"
+        android:src="@drawable/johnbrowne" />
+    
+    <EditText
+        android:id="@+id/messageJohBro"
+       android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectJohBro"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer255"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messageJohBro" />
+    
+    <Button
+        android:id="@+id/sendEmailJohBro"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer255"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+       <!--  <Button
+        android:id="@+id/JohBrowebsite"
+        android:layout_width="200dip"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sendEmailJohBro"
+        android:onClick="onClickSendEmailJohBro"
+        android:text="Open John Browne's website" />-->
+       
+       
+       
+       
+       
+       
+       
+       
+       <TextView
+        android:id="@+id/textviewPauKeh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="680sp"
+        android:textSize="20sp"
+        android:text="Paul Kehoe" />
+    
+    <EditText
+        android:id="@+id/SubjectPauKeh"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/textviewPauKeh"
+        android:hint="Please type the subject of the message"
+        android:ems="10" />
+    
+    <ImageView
+        android:id="@+id/imageViewPauKeh"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="690sp"
+        android:layout_toRightOf="@+id/SubjectPauKeh"
+        android:src="@drawable/paulkehoe" />
+    
+    <EditText
+        android:id="@+id/messagePauKeh"
+        android:layout_width="285dip"
+        
+        android:background="#32cd32"
+        android:layout_height="55dip"
+        android:layout_below="@+id/SubjectPauKeh"
+        android:hint="Please type your message"
+        android:ems="10" />
+    
+    <TextView
+        android:id="@+id/spacer256"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/messagePauKeh" />
+    
+    <Button
+        android:id="@+id/sendEmailPauKeh"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer256"
+        android:onClick="onClickSendEmail1"
+        android:text="Send Email" />
+    
+    <TextView
+        android:id="@+id/spacer257"
+        android:layout_width="200dip"   android:layout_height="4dip"
+        android:layout_below="@+id/sendEmailPauKeh" />
+    
+       <Button
+        android:id="@+id/PauKehwebsite"
+        android:layout_width="285dip"
+        android:background="#32cd32"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/spacer257"
+        android:onClick="onClickSendEmailPauKeh"
+        android:text="Open Paul Kehoe's website" />
+       
+
+</RelativeLayout>
+</ScrollView>
